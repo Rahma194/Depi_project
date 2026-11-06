@@ -1,0 +1,1405 @@
+Gov,Water_Source,Season,Year,Water_Consumption
+Luxor,Surface_Water,Winter,2011,70703
+Fayoum,Surface_Water,Winter,2011,784952
+Kafr El Sheikh,Surface_Water,Winter,2011,899221
+Bani Suef,Surface_Water,Winter,2011,497020
+Port Said,Surface_Water,Winter,2011,N/A
+Damietta,Surface_Water,Winter,2011,184259
+Ismailia,Surface_Water,Winter,2011,141179
+Monufia,Surface_Water,Winter,2011,565524
+Sohag,Surface_Water,Winter,2011,585877
+Minya,Surface_Water,Winter,2011,756193
+Suez,Surface_Water,Winter,2011,19308
+Qena,Surface_Water,Winter,2011,204704
+Sharqiya,Surface_Water,Winter,2011,1019633
+Asyut,Surface_Water,Winter,2011,633813
+Aswan,Surface_Water,Winter,2011,36020
+Beheira,Surface_Water,Winter,2011,1115178
+Dakahlia,Surface_Water,Winter,2011,966255
+Qalyoubia,Surface_Water,Winter,2011,208318
+Giza,Surface_Water,Winter,2011,199170
+Gharbiya,Surface_Water,Winter,2011,597224
+Cairo,Surface_Water,Winter,2011,64744
+Alexandria,Surface_Water,Winter,2011,13463
+New Vally,Groundwater,Winter,2011,165343
+Marsa Matrouh,Groundwater,Winter,2011,100809
+North Sinai,Groundwater,Winter,2011,1941
+South sinai,Groundwater,Winter,2011,87
+Giza,Groundwater,Winter,2011,8192
+Luxor,Surface_Water,Winter,2012,86429.9
+Fayoum,Surface_Water,Winter,2012,725585.8
+Kafr El Sheikh,Surface_Water,Winter,2012,819707
+Bani Suef,Surface_Water,Winter,2012,436435
+Port Said,Surface_Water,Winter,2012,N/A
+Damietta,Surface_Water,Winter,2012,183419
+Ismailia,Surface_Water,Winter,2012,126842
+Monufia,Surface_Water,Winter,2012,502433
+Sohag,Surface_Water,Winter,2012,646770
+Minya,Surface_Water,Winter,2012,670131
+Suez,Surface_Water,Winter,2012,17344
+Qena,Surface_Water,Winter,2012,242271
+Sharqiya,Surface_Water,Winter,2012,958052
+Asyut,Surface_Water,Winter,2012,755724
+Aswan,Surface_Water,Winter,2012,47065.2
+Beheira,Surface_Water,Winter,2012,1082780
+Dakahlia,Surface_Water,Winter,2012,932325
+Qalyoubia,Surface_Water,Winter,2012,196859
+Giza,Surface_Water,Winter,2012,2750812
+Gharbiya,Surface_Water,Winter,2012,556043
+Cairo,Surface_Water,Winter,2012,3371
+Alexandria,Surface_Water,Winter,2012,13160
+New Vally,Groundwater,Winter,2012,196486
+Marsa Matrouh,Groundwater,Winter,2012,144828
+North Sinai,Groundwater,Winter,2012,9249
+South sinai,Groundwater,Winter,2012,611
+Giza,Groundwater,Winter,2012,6750
+Luxor,Surface_Water,Winter,2013,96429.4
+Fayoum,Surface_Water,Winter,2013,840772.6
+Kafr El Sheikh,Surface_Water,Winter,2013,1118845.5
+Bani Suef,Surface_Water,Winter,2013,519077
+Port Said,Surface_Water,Winter,2013,N/A
+Damietta,Surface_Water,Winter,2013,228992.8
+Ismailia,Surface_Water,Winter,2013,159024.2
+Monufia,Surface_Water,Winter,2013,659254.5
+Sohag,Surface_Water,Winter,2013,762875.5
+Minya,Surface_Water,Winter,2013,766847
+Suez,Surface_Water,Winter,2013,19565.1
+Qena,Surface_Water,Winter,2013,271360.3
+Sharqiya,Surface_Water,Winter,2013,1234549
+Asyut,Surface_Water,Winter,2013,795093.9
+Aswan,Surface_Water,Winter,2013,48877.4
+Beheira,Surface_Water,Winter,2013,1369830.3
+Dakahlia,Surface_Water,Winter,2013,1202039.3
+Qalyoubia,Surface_Water,Winter,2013,248767.4
+Giza,Surface_Water,Winter,2013,296595.9
+Gharbiya,Surface_Water,Winter,2013,716676.5
+Cairo,Surface_Water,Winter,2013,2916.9
+Alexandria,Surface_Water,Winter,2013,134128.5
+New Vally,Groundwater,Winter,2013,217805
+Marsa Matrouh,Groundwater,Winter,2013,248
+North Sinai,Groundwater,Winter,2013,5273
+South sinai,Groundwater,Winter,2013,1601
+Giza,Groundwater,Winter,2013,29561
+Luxor,Surface_Water,Winter,2014,92294.6
+Fayoum,Surface_Water,Winter,2014,850006.4
+Kafr El Sheikh,Surface_Water,Winter,2014,1108843.4
+Bani Suef,Surface_Water,Winter,2014,523251.5
+Port Said,Surface_Water,Winter,2014,N/A
+Damietta,Surface_Water,Winter,2014,225690.5
+Ismailia,Surface_Water,Winter,2014,154543.3
+Monufia,Surface_Water,Winter,2014,626513.9
+Sohag,Surface_Water,Winter,2014,792941.8
+Minya,Surface_Water,Winter,2014,816704.3
+Suez,Surface_Water,Winter,2014,21738
+Qena,Surface_Water,Winter,2014,277279.4
+Sharqiya,Surface_Water,Winter,2014,1220180.6
+Asyut,Surface_Water,Winter,2014,835305.5
+Aswan,Surface_Water,Winter,2014,49997.4
+Beheira,Surface_Water,Winter,2014,1388000.5
+Dakahlia,Surface_Water,Winter,2014,1245457.4
+Qalyoubia,Surface_Water,Winter,2014,247186
+Giza,Surface_Water,Winter,2014,319876.3
+Gharbiya,Surface_Water,Winter,2014,694189.8
+Cairo,Surface_Water,Winter,2014,2755.6
+Alexandria,Surface_Water,Winter,2014,115210.4
+New Vally,Groundwater,Winter,2014,289129
+Marsa Matrouh,Groundwater,Winter,2014,76686
+North Sinai,Groundwater,Winter,2014,4244
+South sinai,Groundwater,Winter,2014,1926
+Giza,Groundwater,Winter,2014,24794
+Luxor,Surface_Water,Winter,2015,88510
+Fayoum,Surface_Water,Winter,2015,881040
+Kafr El Sheikh,Surface_Water,Winter,2015,1121284
+Bani Suef,Surface_Water,Winter,2015,492684
+Port Said,Surface_Water,Winter,2015,N/A
+Damietta,Surface_Water,Winter,2015,222253
+Ismailia,Surface_Water,Winter,2015,155816
+Monufia,Surface_Water,Winter,2015,634064
+Sohag,Surface_Water,Winter,2015,803103
+Minya,Surface_Water,Winter,2015,793582
+Suez,Surface_Water,Winter,2015,14595
+Qena,Surface_Water,Winter,2015,274386
+Sharqiya,Surface_Water,Winter,2015,1289446
+Asyut,Surface_Water,Winter,2015,836672
+Aswan,Surface_Water,Winter,2015,51787
+Beheira,Surface_Water,Winter,2015,1383394
+Dakahlia,Surface_Water,Winter,2015,1187360
+Qalyoubia,Surface_Water,Winter,2015,257508
+Giza,Surface_Water,Winter,2015,311022
+Gharbiya,Surface_Water,Winter,2015,690742
+Cairo,Surface_Water,Winter,2015,2308
+Alexandria,Surface_Water,Winter,2015,111669
+New Vally,Groundwater,Winter,2015,307083
+Marsa Matrouh,Groundwater,Winter,2015,247756
+North Sinai,Groundwater,Winter,2015,10954
+South sinai,Groundwater,Winter,2015,2664
+Giza,Groundwater,Winter,2015,60801
+Luxor,Surface_Water,Winter,2016,125366
+Fayoum,Surface_Water,Winter,2016,1143603
+Kafr El Sheikh,Surface_Water,Winter,2016,1110358
+Bani Suef,Surface_Water,Winter,2016,745326
+Port Said,Surface_Water,Winter,2016,N/A
+Damietta,Surface_Water,Winter,2016,212081
+Ismailia,Surface_Water,Winter,2016,166194
+Monufia,Surface_Water,Winter,2016,662637
+Sohag,Surface_Water,Winter,2016,1015302
+Minya,Surface_Water,Winter,2016,1012528
+Suez,Surface_Water,Winter,2016,14959
+Qena,Surface_Water,Winter,2016,344429
+Sharqiya,Surface_Water,Winter,2016,1299750
+Asyut,Surface_Water,Winter,2016,1005727
+Aswan,Surface_Water,Winter,2016,65260
+Beheira,Surface_Water,Winter,2016,1374720
+Dakahlia,Surface_Water,Winter,2016,1200284
+Qalyoubia,Surface_Water,Winter,2016,250031
+Giza,Surface_Water,Winter,2016,362722
+Gharbiya,Surface_Water,Winter,2016,708486
+Cairo,Surface_Water,Winter,2016,562.6
+Alexandria,Surface_Water,Winter,2016,111152
+New Vally,Groundwater,Winter,2016,305342
+Marsa Matrouh,Groundwater,Winter,2016,261478
+North Sinai,Groundwater,Winter,2016,19055
+South sinai,Groundwater,Winter,2016,2361
+Giza,Groundwater,Winter,2016,44056
+Luxor,Surface_Water,Winter,2017,68116
+Fayoum,Surface_Water,Winter,2017,909998
+Kafr El Sheikh,Surface_Water,Winter,2017,1084447
+Bani Suef,Surface_Water,Winter,2017,646716
+Port Said,Surface_Water,Winter,2017,134510
+Damietta,Surface_Water,Winter,2017,201212
+Ismailia,Surface_Water,Winter,2017,116830
+Monufia,Surface_Water,Winter,2017,611135
+Sohag,Surface_Water,Winter,2017,707287
+Minya,Surface_Water,Winter,2017,843997
+Suez,Surface_Water,Winter,2017,23012
+Qena,Surface_Water,Winter,2017,229233
+Sharqiya,Surface_Water,Winter,2017,1221461
+Asyut,Surface_Water,Winter,2017,685282
+Aswan,Surface_Water,Winter,2017,41807
+Beheira,Surface_Water,Winter,2017,1293128
+Dakahlia,Surface_Water,Winter,2017,1103764
+Qalyoubia,Surface_Water,Winter,2017,245930
+Giza,Surface_Water,Winter,2017,311552
+Gharbiya,Surface_Water,Winter,2017,607902
+Cairo,Surface_Water,Winter,2017,1864
+Alexandria,Surface_Water,Winter,2017,121610
+New Vally,Groundwater,Winter,2017,321843
+Marsa Matrouh,Groundwater,Winter,2017,166043
+North Sinai,Groundwater,Winter,2017,1033
+South sinai,Groundwater,Winter,2017,2812
+Giza,Groundwater,Winter,2017,18956
+Luxor,Surface_Water,Winter,2018,82979
+Fayoum,Surface_Water,Winter,2018,807134
+Kafr El Sheikh,Surface_Water,Winter,2018,1096671
+Bani Suef,Surface_Water,Winter,2018,547469
+Port Said,Surface_Water,Winter,2018,138726
+Damietta,Surface_Water,Winter,2018,192098
+Ismailia,Surface_Water,Winter,2018,150176
+Monufia,Surface_Water,Winter,2018,572985
+Sohag,Surface_Water,Winter,2018,758026
+Minya,Surface_Water,Winter,2018,757069
+Suez,Surface_Water,Winter,2018,23503
+Qena,Surface_Water,Winter,2018,248351
+Sharqiya,Surface_Water,Winter,2018,1218163
+Asyut,Surface_Water,Winter,2018,768117
+Aswan,Surface_Water,Winter,2018,46257
+Beheira,Surface_Water,Winter,2018,1276159
+Dakahlia,Surface_Water,Winter,2018,1101463
+Qalyoubia,Surface_Water,Winter,2018,222660
+Giza,Surface_Water,Winter,2018,296866
+Gharbiya,Surface_Water,Winter,2018,633799
+Cairo,Surface_Water,Winter,2018,1200
+Alexandria,Surface_Water,Winter,2018,118183
+New Vally,Groundwater,Winter,2018,356731
+Marsa Matrouh,Groundwater,Winter,2018,87493
+North Sinai,Groundwater,Winter,2018,1852
+South sinai,Groundwater,Winter,2018,2811
+Giza,Groundwater,Winter,2018,18886
+Luxor,Surface_Water,Winter,2019,90449
+Fayoum,Surface_Water,Winter,2019,880280
+Kafr El Sheikh,Surface_Water,Winter,2019,1340237
+Bani Suef,Surface_Water,Winter,2019,656473
+Port Said,Surface_Water,Winter,2019,274882
+Damietta,Surface_Water,Winter,2019,218951
+Ismailia,Surface_Water,Winter,2019,145923
+Monufia,Surface_Water,Winter,2019,583600
+Sohag,Surface_Water,Winter,2019,786192
+Minya,Surface_Water,Winter,2019,814365
+Suez,Surface_Water,Winter,2019,22236
+Qena,Surface_Water,Winter,2019,248027
+Sharqiya,Surface_Water,Winter,2019,1336627
+Asyut,Surface_Water,Winter,2019,801102
+Aswan,Surface_Water,Winter,2019,45146
+Beheira,Surface_Water,Winter,2019,1479276
+Dakahlia,Surface_Water,Winter,2019,1298059
+Qalyoubia,Surface_Water,Winter,2019,253677
+Giza,Surface_Water,Winter,2019,270225
+Gharbiya,Surface_Water,Winter,2019,741450
+Cairo,Surface_Water,Winter,2019,328
+Alexandria,Surface_Water,Winter,2019,154059
+New Vally,Groundwater,Winter,2019,352400
+Marsa Matrouh,Groundwater,Winter,2019,217072
+North Sinai,Groundwater,Winter,2019,4140
+South sinai,Groundwater,Winter,2019,890
+Giza,Groundwater,Winter,2019,13876
+Luxor,Surface_Water,Winter,2020,84736
+Fayoum,Surface_Water,Winter,2020,828328
+Kafr El Sheikh,Surface_Water,Winter,2020,1108011
+Bani Suef,Surface_Water,Winter,2020,788376
+Port Said,Surface_Water,Winter,2020,103556
+Damietta,Surface_Water,Winter,2020,230490
+Ismailia,Surface_Water,Winter,2020,140676
+Monufia,Surface_Water,Winter,2020,615993
+Sohag,Surface_Water,Winter,2020,784436
+Minya,Surface_Water,Winter,2020,2727944
+Suez,Surface_Water,Winter,2020,19573
+Qena,Surface_Water,Winter,2020,239002
+Sharqiya,Surface_Water,Winter,2020,1334937
+Asyut,Surface_Water,Winter,2020,753841
+Aswan,Surface_Water,Winter,2020,61135
+Beheira,Surface_Water,Winter,2020,1441071
+Dakahlia,Surface_Water,Winter,2020,1216840
+Qalyoubia,Surface_Water,Winter,2020,262263
+Giza,Surface_Water,Winter,2020,271348
+Gharbiya,Surface_Water,Winter,2020,733845
+Cairo,Surface_Water,Winter,2020,1136
+Alexandria,Surface_Water,Winter,2020,145192
+New Vally,Groundwater,Winter,2020,439883
+Marsa Matrouh,Groundwater,Winter,2020,48404
+North Sinai,Groundwater,Winter,2020,479
+South sinai,Groundwater,Winter,2020,584
+Giza,Groundwater,Winter,2020,15209
+Luxor,Surface_Water,Winter,2021,92125
+Fayoum,Surface_Water,Winter,2021,881702
+Kafr El Sheikh,Surface_Water,Winter,2021,1107657
+Bani Suef,Surface_Water,Winter,2021,723306
+Port Said,Surface_Water,Winter,2021,131800
+Damietta,Surface_Water,Winter,2021,212686
+Ismailia,Surface_Water,Winter,2021,132755
+Monufia,Surface_Water,Winter,2021,607257
+Sohag,Surface_Water,Winter,2021,921931
+Minya,Surface_Water,Winter,2021,1039151
+Suez,Surface_Water,Winter,2021,17407
+Qena,Surface_Water,Winter,2021,282252
+Sharqiya,Surface_Water,Winter,2021,1267586
+Asyut,Surface_Water,Winter,2021,874307
+Aswan,Surface_Water,Winter,2021,60436
+Beheira,Surface_Water,Winter,2021,1435706
+Dakahlia,Surface_Water,Winter,2021,1181597
+Qalyoubia,Surface_Water,Winter,2021,262278
+Giza,Surface_Water,Winter,2021,325134
+Gharbiya,Surface_Water,Winter,2021,716639
+Cairo,Surface_Water,Winter,2021,365
+Alexandria,Surface_Water,Winter,2021,127200
+New Vally,Groundwater,Winter,2021,530381
+Marsa Matrouh,Groundwater,Winter,2021,47605
+North Sinai,Groundwater,Winter,2021,653
+South sinai,Groundwater,Winter,2021,620
+Giza,Groundwater,Winter,2021,20395
+Luxor,Surface_Water,Winter,2022,72402
+Fayoum,Surface_Water,Winter,2022,780437
+Kafr El Sheikh,Surface_Water,Winter,2022,1128465
+Bani Suef,Surface_Water,Winter,2022,589517
+Port Said,Surface_Water,Winter,2022,136996
+Damietta,Surface_Water,Winter,2022,207559
+Ismailia,Surface_Water,Winter,2022,135966
+Monufia,Surface_Water,Winter,2022,536597
+Sohag,Surface_Water,Winter,2022,807422
+Minya,Surface_Water,Winter,2022,872296
+Suez,Surface_Water,Winter,2022,24590
+Qena,Surface_Water,Winter,2022,244052
+Sharqiya,Surface_Water,Winter,2022,1288863
+Asyut,Surface_Water,Winter,2022,770052
+Aswan,Surface_Water,Winter,2022,44030
+Beheira,Surface_Water,Winter,2022,1100489
+Dakahlia,Surface_Water,Winter,2022,1112913
+Qalyoubia,Surface_Water,Winter,2022,246315
+Giza,Surface_Water,Winter,2022,252099
+Gharbiya,Surface_Water,Winter,2022,704034
+Cairo,Surface_Water,Winter,2022,691
+Alexandria,Surface_Water,Winter,2022,93537
+New Vally,Groundwater,Winter,2022,530381
+Marsa Matrouh,Groundwater,Winter,2022,50095
+North Sinai,Groundwater,Winter,2022,1058
+South sinai,Groundwater,Winter,2022,1686
+Giza,Groundwater,Winter,2022,101629
+Luxor,Surface_Water,Winter,2023,80195
+Fayoum,Surface_Water,Winter,2023,932638
+Kafr El Sheikh,Surface_Water,Winter,2023,1118328
+Bani Suef,Surface_Water,Winter,2023,638493
+Port Said,Surface_Water,Winter,2023,182725
+Damietta,Surface_Water,Winter,2023,228850
+Ismailia,Surface_Water,Winter,2023,103946
+Monufia,Surface_Water,Winter,2023,518430
+Sohag,Surface_Water,Winter,2023,743889
+Minya,Surface_Water,Winter,2023,940361
+Suez,Surface_Water,Winter,2023,17843
+Qena,Surface_Water,Winter,2023,221020
+Sharqiya,Surface_Water,Winter,2023,1285923
+Asyut,Surface_Water,Winter,2023,751320
+Aswan,Surface_Water,Winter,2023,43300
+Beheira,Surface_Water,Winter,2023,1234461
+Dakahlia,Surface_Water,Winter,2023,1111267
+Qalyoubia,Surface_Water,Winter,2023,242178
+Giza,Surface_Water,Winter,2023,247219
+Gharbiya,Surface_Water,Winter,2023,678179
+Cairo,Surface_Water,Winter,2023,688
+Alexandria,Surface_Water,Winter,2023,86932
+New Vally,Groundwater,Winter,2023,582495
+Marsa Matrouh,Groundwater,Winter,2023,93831
+North Sinai,Groundwater,Winter,2023,927
+South sinai,Groundwater,Winter,2023,2703
+Giza,Groundwater,Winter,2023,126075
+Luxor,Surface_Water,Summer,2011,612364
+Fayoum,Surface_Water,Summer,2011,800112
+Kafr El Sheikh,Surface_Water,Summer,2011,1994980
+Bani Suef,Surface_Water,Summer,2011,490117
+Port Said,Surface_Water,Summer,2011,13818
+Damietta,Surface_Water,Summer,2011,385193
+Ismailia,Surface_Water,Summer,2011,203370
+Monufia,Surface_Water,Summer,2011,657735
+Sohag,Surface_Water,Summer,2011,913143
+Minya,Surface_Water,Summer,2011,1330379
+Suez,Surface_Water,Summer,2011,22707
+Qena,Surface_Water,Summer,2011,1270557
+Sharqiya,Surface_Water,Summer,2011,1888979
+Asyut,Surface_Water,Summer,2011,919156
+Aswan,Surface_Water,Summer,2011,585295
+Beheira,Surface_Water,Summer,2011,2311064
+Dakahlia,Surface_Water,Summer,2011,2247154
+Qalyoubia,Surface_Water,Summer,2011,329340
+Giza,Surface_Water,Summer,2011,455176
+Gharbiya,Surface_Water,Summer,2011,945808
+Cairo,Surface_Water,Summer,2011,5101
+Alexandria,Surface_Water,Summer,2011,53407
+New Vally,Groundwater,Summer,2011,83921
+Marsa Matrouh,Groundwater,Summer,2011,19034
+North Sinai,Groundwater,Summer,2011,1175
+South sinai,Groundwater,Summer,2011,51
+Giza,Groundwater,Summer,2011,3307
+Luxor,Surface_Water,Summer,2012,686954
+Fayoum,Surface_Water,Summer,2012,908835
+Kafr El Sheikh,Surface_Water,Summer,2012,1765425
+Bani Suef,Surface_Water,Summer,2012,798012
+Port Said,Surface_Water,Summer,2012,8431
+Damietta,Surface_Water,Summer,2012,350693
+Ismailia,Surface_Water,Summer,2012,205597
+Monufia,Surface_Water,Summer,2012,772840
+Sohag,Surface_Water,Summer,2012,1052153
+Minya,Surface_Water,Summer,2012,1383198
+Suez,Surface_Water,Summer,2012,11242
+Qena,Surface_Water,Summer,2012,1519594
+Sharqiya,Surface_Water,Summer,2012,1838815
+Asyut,Surface_Water,Summer,2012,1054179
+Aswan,Surface_Water,Summer,2012,662928
+Beheira,Surface_Water,Summer,2012,2112548
+Dakahlia,Surface_Water,Summer,2012,2042925
+Qalyoubia,Surface_Water,Summer,2012,349068
+Giza,Surface_Water,Summer,2012,488820
+Gharbiya,Surface_Water,Summer,2012,1023352
+Cairo,Surface_Water,Summer,2012,4215
+Alexandria,Surface_Water,Summer,2012,168946
+New Vally,Groundwater,Summer,2012,92866
+Marsa Matrouh,Groundwater,Summer,2012,27675
+North Sinai,Groundwater,Summer,2012,3278
+South sinai,Groundwater,Summer,2012,75
+Giza,Groundwater,Summer,2012,1215
+Luxor,Surface_Water,Summer,2013,731634
+Fayoum,Surface_Water,Summer,2013,959246
+Kafr El Sheikh,Surface_Water,Summer,2013,2474698
+Bani Suef,Surface_Water,Summer,2013,615428
+Port Said,Surface_Water,Summer,2013,5817
+Damietta,Surface_Water,Summer,2013,477026
+Ismailia,Surface_Water,Summer,2013,198667
+Monufia,Surface_Water,Summer,2013,691714
+Sohag,Surface_Water,Summer,2013,1091413
+Minya,Surface_Water,Summer,2013,1378284
+Suez,Surface_Water,Summer,2013,21194
+Qena,Surface_Water,Summer,2013,1575685
+Sharqiya,Surface_Water,Summer,2013,2406958
+Asyut,Surface_Water,Summer,2013,1086193
+Aswan,Surface_Water,Summer,2013,679897
+Beheira,Surface_Water,Summer,2013,2449501
+Dakahlia,Surface_Water,Summer,2013,2919633
+Qalyoubia,Surface_Water,Summer,2013,343871
+Giza,Surface_Water,Summer,2013,401769
+Gharbiya,Surface_Water,Summer,2013,1318840
+Cairo,Surface_Water,Summer,2013,3208
+Alexandria,Surface_Water,Summer,2013,172616
+New Vally,Groundwater,Summer,2013,81978
+Marsa Matrouh,Groundwater,Summer,2013,98
+North Sinai,Groundwater,Summer,2013,2390
+South sinai,Groundwater,Summer,2013,129
+Giza,Groundwater,Summer,2013,14097
+Luxor,Surface_Water,Summer,2014,751825
+Fayoum,Surface_Water,Summer,2014,1055370
+Kafr El Sheikh,Surface_Water,Summer,2014,2499066
+Bani Suef,Surface_Water,Summer,2014,640497
+Port Said,Surface_Water,Summer,2014,N/A
+Damietta,Surface_Water,Summer,2014,505169
+Ismailia,Surface_Water,Summer,2014,186158
+Monufia,Surface_Water,Summer,2014,857735
+Sohag,Surface_Water,Summer,2014,1141668
+Minya,Surface_Water,Summer,2014,1395344
+Suez,Surface_Water,Summer,2014,27940
+Qena,Surface_Water,Summer,2014,1571989
+Sharqiya,Surface_Water,Summer,2014,2475894
+Asyut,Surface_Water,Summer,2014,1139688
+Aswan,Surface_Water,Summer,2014,749627
+Beheira,Surface_Water,Summer,2014,2684884
+Dakahlia,Surface_Water,Summer,2014,3025858
+Qalyoubia,Surface_Water,Summer,2014,494426
+Giza,Surface_Water,Summer,2014,417678
+Gharbiya,Surface_Water,Summer,2014,1453695
+Cairo,Surface_Water,Summer,2014,3112
+Alexandria,Surface_Water,Summer,2014,164368
+New Vally,Groundwater,Summer,2014,98398
+Marsa Matrouh,Groundwater,Summer,2014,71115
+North Sinai,Groundwater,Summer,2014,2277
+South sinai,Groundwater,Summer,2014,429
+Giza,Groundwater,Summer,2014,18016
+Luxor,Surface_Water,Summer,2015,819980
+Fayoum,Surface_Water,Summer,2015,922415
+Kafr El Sheikh,Surface_Water,Summer,2015,1986079
+Bani Suef,Surface_Water,Summer,2015,609468
+Port Said,Surface_Water,Summer,2015,N/A
+Damietta,Surface_Water,Summer,2015,394353
+Ismailia,Surface_Water,Summer,2015,185870
+Monufia,Surface_Water,Summer,2015,842039
+Sohag,Surface_Water,Summer,2015,1162314
+Minya,Surface_Water,Summer,2015,1383265
+Suez,Surface_Water,Summer,2015,31793
+Qena,Surface_Water,Summer,2015,1541105
+Sharqiya,Surface_Water,Summer,2015,2110457
+Asyut,Surface_Water,Summer,2015,1123618
+Aswan,Surface_Water,Summer,2015,741368
+Beheira,Surface_Water,Summer,2015,2412622
+Dakahlia,Surface_Water,Summer,2015,2287132
+Qalyoubia,Surface_Water,Summer,2015,415106
+Giza,Surface_Water,Summer,2015,379140
+Gharbiya,Surface_Water,Summer,2015,1145823
+Cairo,Surface_Water,Summer,2015,2440
+Alexandria,Surface_Water,Summer,2015,150682
+New Vally,Groundwater,Summer,2015,90426
+Marsa Matrouh,Groundwater,Summer,2015,46373
+North Sinai,Groundwater,Summer,2015,2932
+South sinai,Groundwater,Summer,2015,239
+Giza,Groundwater,Summer,2015,19206
+Luxor,Surface_Water,Summer,2016,844814
+Fayoum,Surface_Water,Summer,2016,1311843
+Kafr El Sheikh,Surface_Water,Summer,2016,2526910
+Bani Suef,Surface_Water,Summer,2016,866805
+Port Said,Surface_Water,Summer,2016,N/A
+Damietta,Surface_Water,Summer,2016,428466
+Ismailia,Surface_Water,Summer,2016,204664
+Monufia,Surface_Water,Summer,2016,991141
+Sohag,Surface_Water,Summer,2016,1459758
+Minya,Surface_Water,Summer,2016,1960311
+Suez,Surface_Water,Summer,2016,33858
+Qena,Surface_Water,Summer,2016,1691541
+Sharqiya,Surface_Water,Summer,2016,2615913
+Asyut,Surface_Water,Summer,2016,1375237
+Aswan,Surface_Water,Summer,2016,756314
+Beheira,Surface_Water,Summer,2016,3495271
+Dakahlia,Surface_Water,Summer,2016,2588674
+Qalyoubia,Surface_Water,Summer,2016,493959
+Giza,Surface_Water,Summer,2016,479839
+Gharbiya,Surface_Water,Summer,2016,1464349
+Cairo,Surface_Water,Summer,2016,1368
+Alexandria,Surface_Water,Summer,2016,183280
+New Vally,Groundwater,Summer,2016,122768
+Marsa Matrouh,Groundwater,Summer,2016,67044
+North Sinai,Groundwater,Summer,2016,203
+South sinai,Groundwater,Summer,2016,109
+Giza,Groundwater,Summer,2016,13979
+Luxor,Surface_Water,Summer,2017,750785
+Fayoum,Surface_Water,Summer,2017,1407917
+Kafr El Sheikh,Surface_Water,Summer,2017,2500637
+Bani Suef,Surface_Water,Summer,2017,849386
+Port Said,Surface_Water,Summer,2017,191725
+Damietta,Surface_Water,Summer,2017,443293
+Ismailia,Surface_Water,Summer,2017,178594
+Monufia,Surface_Water,Summer,2017,1042354
+Sohag,Surface_Water,Summer,2017,1390126
+Minya,Surface_Water,Summer,2017,1963557
+Suez,Surface_Water,Summer,2017,23719
+Qena,Surface_Water,Summer,2017,1544024
+Sharqiya,Surface_Water,Summer,2017,2691185
+Asyut,Surface_Water,Summer,2017,1326480
+Aswan,Surface_Water,Summer,2017,702457
+Beheira,Surface_Water,Summer,2017,3232341
+Dakahlia,Surface_Water,Summer,2017,2894733
+Qalyoubia,Surface_Water,Summer,2017,445203
+Giza,Surface_Water,Summer,2017,429956
+Gharbiya,Surface_Water,Summer,2017,1742526
+Cairo,Surface_Water,Summer,2017,2790
+Alexandria,Surface_Water,Summer,2017,171606
+New Vally,Groundwater,Summer,2017,134638
+Marsa Matrouh,Groundwater,Summer,2017,43865
+North Sinai,Groundwater,Summer,2017,1029
+South sinai,Groundwater,Summer,2017,258
+Giza,Groundwater,Summer,2017,11227
+Luxor,Surface_Water,Summer,2018,667018
+Fayoum,Surface_Water,Summer,2018,1288561
+Kafr El Sheikh,Surface_Water,Summer,2018,1910339
+Bani Suef,Surface_Water,Summer,2018,805794
+Port Said,Surface_Water,Summer,2018,221761
+Damietta,Surface_Water,Summer,2018,428950
+Ismailia,Surface_Water,Summer,2018,232115
+Monufia,Surface_Water,Summer,2018,867732
+Sohag,Surface_Water,Summer,2018,1286592
+Minya,Surface_Water,Summer,2018,1786738
+Suez,Surface_Water,Summer,2018,32000
+Qena,Surface_Water,Summer,2018,1459654
+Sharqiya,Surface_Water,Summer,2018,2166491
+Asyut,Surface_Water,Summer,2018,1175163
+Aswan,Surface_Water,Summer,2018,653847
+Beheira,Surface_Water,Summer,2018,2342622
+Dakahlia,Surface_Water,Summer,2018,1854360
+Qalyoubia,Surface_Water,Summer,2018,351385
+Giza,Surface_Water,Summer,2018,412261
+Gharbiya,Surface_Water,Summer,2018,774301
+Cairo,Surface_Water,Summer,2018,1508
+Alexandria,Surface_Water,Summer,2018,141184
+New Vally,Groundwater,Summer,2018,125818
+Marsa Matrouh,Groundwater,Summer,2018,43086
+North Sinai,Groundwater,Summer,2018,1205
+South sinai,Groundwater,Summer,2018,255
+Giza,Groundwater,Summer,2018,12476
+Luxor,Surface_Water,Summer,2019,719412
+Fayoum,Surface_Water,Summer,2019,1357196
+Kafr El Sheikh,Surface_Water,Summer,2019,2274534
+Bani Suef,Surface_Water,Summer,2019,911139
+Port Said,Surface_Water,Summer,2019,232349
+Damietta,Surface_Water,Summer,2019,398279
+Ismailia,Surface_Water,Summer,2019,225280
+Monufia,Surface_Water,Summer,2019,703302
+Sohag,Surface_Water,Summer,2019,1367334
+Minya,Surface_Water,Summer,2019,1844282
+Suez,Surface_Water,Summer,2019,30892
+Qena,Surface_Water,Summer,2019,1602518
+Sharqiya,Surface_Water,Summer,2019,2662031
+Asyut,Surface_Water,Summer,2019,1335529
+Aswan,Surface_Water,Summer,2019,814657
+Beheira,Surface_Water,Summer,2019,2530573
+Dakahlia,Surface_Water,Summer,2019,2539445
+Qalyoubia,Surface_Water,Summer,2019,374041
+Giza,Surface_Water,Summer,2019,443581
+Gharbiya,Surface_Water,Summer,2019,932546
+Cairo,Surface_Water,Summer,2019,1683
+Alexandria,Surface_Water,Summer,2019,231986
+New Vally,Groundwater,Summer,2019,150020
+Marsa Matrouh,Groundwater,Summer,2019,43873
+North Sinai,Groundwater,Summer,2019,661
+South sinai,Groundwater,Summer,2019,481
+Giza,Groundwater,Summer,2019,20148
+Luxor,Surface_Water,Summer,2020,742572
+Fayoum,Surface_Water,Summer,2020,1321065
+Kafr El Sheikh,Surface_Water,Summer,2020,2180308
+Bani Suef,Surface_Water,Summer,2020,795303
+Port Said,Surface_Water,Summer,2020,244311
+Damietta,Surface_Water,Summer,2020,381332
+Ismailia,Surface_Water,Summer,2020,203041
+Monufia,Surface_Water,Summer,2020,756072
+Sohag,Surface_Water,Summer,2020,1337939
+Minya,Surface_Water,Summer,2020,1845038
+Suez,Surface_Water,Summer,2020,34431
+Qena,Surface_Water,Summer,2020,1514397
+Sharqiya,Surface_Water,Summer,2020,2468481
+Asyut,Surface_Water,Summer,2020,1257593
+Aswan,Surface_Water,Summer,2020,872596
+Beheira,Surface_Water,Summer,2020,2219173
+Dakahlia,Surface_Water,Summer,2020,2338586
+Qalyoubia,Surface_Water,Summer,2020,332539
+Giza,Surface_Water,Summer,2020,412959
+Gharbiya,Surface_Water,Summer,2020,890890
+Cairo,Surface_Water,Summer,2020,1477
+Alexandria,Surface_Water,Summer,2020,228317
+New Vally,Groundwater,Summer,2020,194538
+Marsa Matrouh,Groundwater,Summer,2020,45701
+North Sinai,Groundwater,Summer,2020,277
+South sinai,Groundwater,Summer,2020,482
+Giza,Groundwater,Summer,2020,13541
+Luxor,Surface_Water,Summer,2021,696281
+Fayoum,Surface_Water,Summer,2021,1296591
+Kafr El Sheikh,Surface_Water,Summer,2021,2369071
+Bani Suef,Surface_Water,Summer,2021,651032
+Port Said,Surface_Water,Summer,2021,281944
+Damietta,Surface_Water,Summer,2021,401086
+Ismailia,Surface_Water,Summer,2021,213520
+Monufia,Surface_Water,Summer,2021,758036
+Sohag,Surface_Water,Summer,2021,1294554
+Minya,Surface_Water,Summer,2021,1768816
+Suez,Surface_Water,Summer,2021,26858
+Qena,Surface_Water,Summer,2021,1444978
+Sharqiya,Surface_Water,Summer,2021,2417808
+Asyut,Surface_Water,Summer,2021,1289151
+Aswan,Surface_Water,Summer,2021,836162
+Beheira,Surface_Water,Summer,2021,2317666
+Dakahlia,Surface_Water,Summer,2021,2265588
+Qalyoubia,Surface_Water,Summer,2021,354301
+Giza,Surface_Water,Summer,2021,400170
+Gharbiya,Surface_Water,Summer,2021,910334
+Cairo,Surface_Water,Summer,2021,1005
+Alexandria,Surface_Water,Summer,2021,221851
+New Vally,Groundwater,Summer,2021,134377
+Marsa Matrouh,Groundwater,Summer,2021,47110
+North Sinai,Groundwater,Summer,2021,716
+South sinai,Groundwater,Summer,2021,1204
+Giza,Groundwater,Summer,2021,13226
+Luxor,Surface_Water,Summer,2022,649132
+Fayoum,Surface_Water,Summer,2022,1303980
+Kafr El Sheikh,Surface_Water,Summer,2022,2240796
+Bani Suef,Surface_Water,Summer,2022,991937
+Port Said,Surface_Water,Summer,2022,242630
+Damietta,Surface_Water,Summer,2022,451901
+Ismailia,Surface_Water,Summer,2022,158086
+Monufia,Surface_Water,Summer,2022,719236
+Sohag,Surface_Water,Summer,2022,1332709
+Minya,Surface_Water,Summer,2022,1694603
+Suez,Surface_Water,Summer,2022,28505
+Qena,Surface_Water,Summer,2022,1421945
+Sharqiya,Surface_Water,Summer,2022,2481977
+Asyut,Surface_Water,Summer,2022,1232570
+Aswan,Surface_Water,Summer,2022,644317
+Beheira,Surface_Water,Summer,2022,2217889
+Dakahlia,Surface_Water,Summer,2022,2485679
+Qalyoubia,Surface_Water,Summer,2022,359963
+Giza,Surface_Water,Summer,2022,406033
+Gharbiya,Surface_Water,Summer,2022,1038667
+Cairo,Surface_Water,Summer,2022,766
+Alexandria,Surface_Water,Summer,2022,128159
+New Vally,Groundwater,Summer,2022,181191
+Marsa Matrouh,Groundwater,Summer,2022,54713
+North Sinai,Groundwater,Summer,2022,622
+South sinai,Groundwater,Summer,2022,1069
+Giza,Groundwater,Summer,2022,102581
+Luxor,Surface_Water,Summer,2023,713152
+Fayoum,Surface_Water,Summer,2023,1262727
+Kafr El Sheikh,Surface_Water,Summer,2023,2418177
+Bani Suef,Surface_Water,Summer,2023,890841
+Port Said,Surface_Water,Summer,2023,297176
+Damietta,Surface_Water,Summer,2023,424286
+Ismailia,Surface_Water,Summer,2023,221774
+Monufia,Surface_Water,Summer,2023,672369
+Sohag,Surface_Water,Summer,2023,1206714
+Minya,Surface_Water,Summer,2023,1561971
+Suez,Surface_Water,Summer,2023,32218
+Qena,Surface_Water,Summer,2023,1383817
+Sharqiya,Surface_Water,Summer,2023,2584044
+Asyut,Surface_Water,Summer,2023,1053511
+Aswan,Surface_Water,Summer,2023,564356
+Beheira,Surface_Water,Summer,2023,2854135
+Dakahlia,Surface_Water,Summer,2023,2678294
+Qalyoubia,Surface_Water,Summer,2023,334981
+Giza,Surface_Water,Summer,2023,432103
+Gharbiya,Surface_Water,Summer,2023,1056600
+Cairo,Surface_Water,Summer,2023,824
+Alexandria,Surface_Water,Summer,2023,131650
+New Vally,Groundwater,Summer,2023,270705
+Marsa Matrouh,Groundwater,Summer,2023,59439
+North Sinai,Groundwater,Summer,2023,1110
+South sinai,Groundwater,Summer,2023,1932
+Giza,Groundwater,Summer,2023,102261
+Luxor,Surface_Water,Nile season,2011,48161
+Fayoum,Surface_Water,Nile season,2011,205024
+Kafr El Sheikh,Surface_Water,Nile season,2011,24959
+Bani Suef,Surface_Water,Nile season,2011,192741
+Port Said,Surface_Water,Nile season,2011,N/A
+Damietta,Surface_Water,Nile season,2011,9348
+Ismailia,Surface_Water,Nile season,2011,12862
+Monufia,Surface_Water,Nile season,2011,75208
+Sohag,Surface_Water,Nile season,2011,26956
+Minya,Surface_Water,Nile season,2011,123342
+Suez,Surface_Water,Nile season,2011,4290
+Qena,Surface_Water,Nile season,2011,41322
+Sharqiya,Surface_Water,Nile season,2011,26399
+Asyut,Surface_Water,Nile season,2011,13787
+Aswan,Surface_Water,Nile season,2011,11735
+Beheira,Surface_Water,Nile season,2011,107014
+Dakahlia,Surface_Water,Nile season,2011,109649
+Qalyoubia,Surface_Water,Nile season,2011,4125
+Giza,Surface_Water,Nile season,2011,193320
+Gharbiya,Surface_Water,Nile season,2011,169963
+Cairo,Surface_Water,Nile season,2011,840
+Alexandria,Surface_Water,Nile season,2011,9782
+New Vally,Groundwater,Nile season,2011,513
+Marsa Matrouh,Groundwater,Nile season,2011,N/A
+North Sinai,Groundwater,Nile season,2011,18
+South sinai,Groundwater,Nile season,2011,0
+Giza,Groundwater,Nile season,2011,17
+Luxor,Surface_Water,Nile season,2012,N/A
+Fayoum,Surface_Water,Nile season,2012,12
+Kafr El Sheikh,Surface_Water,Nile season,2012,9
+Bani Suef,Surface_Water,Nile season,2012,133637
+Port Said,Surface_Water,Nile season,2012,N/A
+Damietta,Surface_Water,Nile season,2012,4846
+Ismailia,Surface_Water,Nile season,2012,10429
+Monufia,Surface_Water,Nile season,2012,45468
+Sohag,Surface_Water,Nile season,2012,82753
+Minya,Surface_Water,Nile season,2012,130182
+Suez,Surface_Water,Nile season,2012,7068
+Qena,Surface_Water,Nile season,2012,44874
+Sharqiya,Surface_Water,Nile season,2012,33549
+Asyut,Surface_Water,Nile season,2012,9873
+Aswan,Surface_Water,Nile season,2012,17328
+Beheira,Surface_Water,Nile season,2012,111527
+Dakahlia,Surface_Water,Nile season,2012,56215
+Qalyoubia,Surface_Water,Nile season,2012,2042
+Giza,Surface_Water,Nile season,2012,185882
+Gharbiya,Surface_Water,Nile season,2012,165013
+Cairo,Surface_Water,Nile season,2012,745
+Alexandria,Surface_Water,Nile season,2012,36446
+New Vally,Groundwater,Nile season,2012,591
+Marsa Matrouh,Groundwater,Nile season,2012,N/A
+North Sinai,Groundwater,Nile season,2012,12
+South sinai,Groundwater,Nile season,2012,0
+Giza,Groundwater,Nile season,2012,9
+Luxor,Surface_Water,Nile season,2013,44434
+Fayoum,Surface_Water,Nile season,2013,203634
+Kafr El Sheikh,Surface_Water,Nile season,2013,19375
+Bani Suef,Surface_Water,Nile season,2013,114357
+Port Said,Surface_Water,Nile season,2013,N/A
+Damietta,Surface_Water,Nile season,2013,15589
+Ismailia,Surface_Water,Nile season,2013,15197
+Monufia,Surface_Water,Nile season,2013,88515
+Sohag,Surface_Water,Nile season,2013,49550
+Minya,Surface_Water,Nile season,2013,123496
+Suez,Surface_Water,Nile season,2013,N/A
+Qena,Surface_Water,Nile season,2013,29896
+Sharqiya,Surface_Water,Nile season,2013,34480
+Asyut,Surface_Water,Nile season,2013,10188
+Aswan,Surface_Water,Nile season,2013,10151
+Beheira,Surface_Water,Nile season,2013,138640
+Dakahlia,Surface_Water,Nile season,2013,69486
+Qalyoubia,Surface_Water,Nile season,2013,2134
+Giza,Surface_Water,Nile season,2013,165541
+Gharbiya,Surface_Water,Nile season,2013,49111
+Cairo,Surface_Water,Nile season,2013,641
+Alexandria,Surface_Water,Nile season,2013,35553
+New Vally,Groundwater,Nile season,2013,732
+Marsa Matrouh,Groundwater,Nile season,2013,N/A
+North Sinai,Groundwater,Nile season,2013,16
+South sinai,Groundwater,Nile season,2013,0
+Giza,Groundwater,Nile season,2013,209
+Luxor,Surface_Water,Nile season,2014,26429
+Fayoum,Surface_Water,Nile season,2014,175549
+Kafr El Sheikh,Surface_Water,Nile season,2014,8739
+Bani Suef,Surface_Water,Nile season,2014,112161
+Port Said,Surface_Water,Nile season,2014,N/A
+Damietta,Surface_Water,Nile season,2014,5599
+Ismailia,Surface_Water,Nile season,2014,8755
+Monufia,Surface_Water,Nile season,2014,99530
+Sohag,Surface_Water,Nile season,2014,5397
+Minya,Surface_Water,Nile season,2014,128154
+Suez,Surface_Water,Nile season,2014,2319
+Qena,Surface_Water,Nile season,2014,46344
+Sharqiya,Surface_Water,Nile season,2014,34254
+Asyut,Surface_Water,Nile season,2014,9532
+Aswan,Surface_Water,Nile season,2014,11709
+Beheira,Surface_Water,Nile season,2014,145783
+Dakahlia,Surface_Water,Nile season,2014,65007
+Qalyoubia,Surface_Water,Nile season,2014,1261
+Giza,Surface_Water,Nile season,2014,148864
+Gharbiya,Surface_Water,Nile season,2014,178867
+Cairo,Surface_Water,Nile season,2014,693
+Alexandria,Surface_Water,Nile season,2014,37691
+New Vally,Groundwater,Nile season,2014,848
+Marsa Matrouh,Groundwater,Nile season,2014,N/A
+North Sinai,Groundwater,Nile season,2014,19
+South sinai,Groundwater,Nile season,2014,0
+Giza,Groundwater,Nile season,2014,71
+Luxor,Surface_Water,Nile season,2015,20775
+Fayoum,Surface_Water,Nile season,2015,165183
+Kafr El Sheikh,Surface_Water,Nile season,2015,N/A
+Bani Suef,Surface_Water,Nile season,2015,96090
+Port Said,Surface_Water,Nile season,2015,N/A
+Damietta,Surface_Water,Nile season,2015,1255
+Ismailia,Surface_Water,Nile season,2015,8140
+Monufia,Surface_Water,Nile season,2015,28552
+Sohag,Surface_Water,Nile season,2015,3833
+Minya,Surface_Water,Nile season,2015,85505
+Suez,Surface_Water,Nile season,2015,N/A
+Qena,Surface_Water,Nile season,2015,30971
+Sharqiya,Surface_Water,Nile season,2015,34238
+Asyut,Surface_Water,Nile season,2015,8940
+Aswan,Surface_Water,Nile season,2015,14166
+Beheira,Surface_Water,Nile season,2015,95958
+Dakahlia,Surface_Water,Nile season,2015,98990
+Qalyoubia,Surface_Water,Nile season,2015,2091
+Giza,Surface_Water,Nile season,2015,141057
+Gharbiya,Surface_Water,Nile season,2015,130967
+Cairo,Surface_Water,Nile season,2015,452
+Alexandria,Surface_Water,Nile season,2015,36031
+New Vally,Groundwater,Nile season,2015,793
+Marsa Matrouh,Groundwater,Nile season,2015,N/A
+North Sinai,Groundwater,Nile season,2015,10
+South sinai,Groundwater,Nile season,2015,0
+Giza,Groundwater,Nile season,2015,111
+Luxor,Surface_Water,Nile season,2016,33970
+Fayoum,Surface_Water,Nile season,2016,182784
+Kafr El Sheikh,Surface_Water,Nile season,2016,13384
+Bani Suef,Surface_Water,Nile season,2016,152809
+Port Said,Surface_Water,Nile season,2016,N/A
+Damietta,Surface_Water,Nile season,2016,510
+Ismailia,Surface_Water,Nile season,2016,6984
+Monufia,Surface_Water,Nile season,2016,59933
+Sohag,Surface_Water,Nile season,2016,618
+Minya,Surface_Water,Nile season,2016,149191
+Suez,Surface_Water,Nile season,2016,3971
+Qena,Surface_Water,Nile season,2016,25138
+Sharqiya,Surface_Water,Nile season,2016,40874
+Asyut,Surface_Water,Nile season,2016,14727
+Aswan,Surface_Water,Nile season,2016,19856
+Beheira,Surface_Water,Nile season,2016,182049
+Dakahlia,Surface_Water,Nile season,2016,60815
+Qalyoubia,Surface_Water,Nile season,2016,3808
+Giza,Surface_Water,Nile season,2016,149993
+Gharbiya,Surface_Water,Nile season,2016,27598
+Cairo,Surface_Water,Nile season,2016,160
+Alexandria,Surface_Water,Nile season,2016,21569
+New Vally,Groundwater,Nile season,2016,830
+Marsa Matrouh,Groundwater,Nile season,2016,N/A
+North Sinai,Groundwater,Nile season,2016,6
+South sinai,Groundwater,Nile season,2016,0
+Giza,Groundwater,Nile season,2016,219
+Luxor,Surface_Water,Nile season,2017,27112
+Fayoum,Surface_Water,Nile season,2017,152681
+Kafr El Sheikh,Surface_Water,Nile season,2017,13065
+Bani Suef,Surface_Water,Nile season,2017,122869
+Port Said,Surface_Water,Nile season,2017,N/A
+Damietta,Surface_Water,Nile season,2017,499
+Ismailia,Surface_Water,Nile season,2017,4035
+Monufia,Surface_Water,Nile season,2017,45820
+Sohag,Surface_Water,Nile season,2017,120
+Minya,Surface_Water,Nile season,2017,129034
+Suez,Surface_Water,Nile season,2017,3981
+Qena,Surface_Water,Nile season,2017,19943
+Sharqiya,Surface_Water,Nile season,2017,26582
+Asyut,Surface_Water,Nile season,2017,10741
+Aswan,Surface_Water,Nile season,2017,13739
+Beheira,Surface_Water,Nile season,2017,161737
+Dakahlia,Surface_Water,Nile season,2017,54355
+Qalyoubia,Surface_Water,Nile season,2017,1205
+Giza,Surface_Water,Nile season,2017,134772
+Gharbiya,Surface_Water,Nile season,2017,25101
+Cairo,Surface_Water,Nile season,2017,473
+Alexandria,Surface_Water,Nile season,2017,22168
+New Vally,Groundwater,Nile season,2017,1094
+Marsa Matrouh,Groundwater,Nile season,2017,N/A
+North Sinai,Groundwater,Nile season,2017,4
+South sinai,Groundwater,Nile season,2017,0
+Giza,Groundwater,Nile season,2017,175
+Luxor,Surface_Water,Nile season,2018,22593
+Fayoum,Surface_Water,Nile season,2018,119065
+Kafr El Sheikh,Surface_Water,Nile season,2018,9461
+Bani Suef,Surface_Water,Nile season,2018,93656
+Port Said,Surface_Water,Nile season,2018,N/A
+Damietta,Surface_Water,Nile season,2018,3942
+Ismailia,Surface_Water,Nile season,2018,4690
+Monufia,Surface_Water,Nile season,2018,31375
+Sohag,Surface_Water,Nile season,2018,810
+Minya,Surface_Water,Nile season,2018,17816
+Suez,Surface_Water,Nile season,2018,3292
+Qena,Surface_Water,Nile season,2018,14279
+Sharqiya,Surface_Water,Nile season,2018,18605
+Asyut,Surface_Water,Nile season,2018,4019
+Aswan,Surface_Water,Nile season,2018,10520
+Beheira,Surface_Water,Nile season,2018,112099
+Dakahlia,Surface_Water,Nile season,2018,40352
+Qalyoubia,Surface_Water,Nile season,2018,893
+Giza,Surface_Water,Nile season,2018,112151
+Gharbiya,Surface_Water,Nile season,2018,17529
+Cairo,Surface_Water,Nile season,2018,366
+Alexandria,Surface_Water,Nile season,2018,2858
+New Vally,Groundwater,Nile season,2018,950
+Marsa Matrouh,Groundwater,Nile season,2018,N/A
+North Sinai,Groundwater,Nile season,2018,5
+South sinai,Groundwater,Nile season,2018,0
+Giza,Groundwater,Nile season,2018,18
+Luxor,Surface_Water,Nile season,2019,14648
+Fayoum,Surface_Water,Nile season,2019,39432
+Kafr El Sheikh,Surface_Water,Nile season,2019,N/A
+Bani Suef,Surface_Water,Nile season,2019,182833
+Port Said,Surface_Water,Nile season,2019,N/A
+Damietta,Surface_Water,Nile season,2019,1949
+Ismailia,Surface_Water,Nile season,2019,846
+Monufia,Surface_Water,Nile season,2019,16249
+Sohag,Surface_Water,Nile season,2019,N/A
+Minya,Surface_Water,Nile season,2019,78669
+Suez,Surface_Water,Nile season,2019,922
+Qena,Surface_Water,Nile season,2019,24271
+Sharqiya,Surface_Water,Nile season,2019,9472
+Asyut,Surface_Water,Nile season,2019,6890
+Aswan,Surface_Water,Nile season,2019,7001
+Beheira,Surface_Water,Nile season,2019,30533
+Dakahlia,Surface_Water,Nile season,2019,66450
+Qalyoubia,Surface_Water,Nile season,2019,191
+Giza,Surface_Water,Nile season,2019,66263
+Gharbiya,Surface_Water,Nile season,2019,49651
+Cairo,Surface_Water,Nile season,2019,443
+Alexandria,Surface_Water,Nile season,2019,12576
+New Vally,Groundwater,Nile season,2019,383
+Marsa Matrouh,Groundwater,Nile season,2019,N/A
+North Sinai,Groundwater,Nile season,2019,3
+South sinai,Groundwater,Nile season,2019,0
+Giza,Groundwater,Nile season,2019,443
+Luxor,Surface_Water,Nile season,2020,11930
+Fayoum,Surface_Water,Nile season,2020,56184
+Kafr El Sheikh,Surface_Water,Nile season,2020,0
+Bani Suef,Surface_Water,Nile season,2020,43843
+Port Said,Surface_Water,Nile season,2020,0
+Damietta,Surface_Water,Nile season,2020,0
+Ismailia,Surface_Water,Nile season,2020,155
+Monufia,Surface_Water,Nile season,2020,6183
+Sohag,Surface_Water,Nile season,2020,0
+Minya,Surface_Water,Nile season,2020,103677
+Suez,Surface_Water,Nile season,2020,1934
+Qena,Surface_Water,Nile season,2020,24677
+Sharqiya,Surface_Water,Nile season,2020,1387
+Asyut,Surface_Water,Nile season,2020,7236
+Aswan,Surface_Water,Nile season,2020,0
+Beheira,Surface_Water,Nile season,2020,24463
+Dakahlia,Surface_Water,Nile season,2020,84431
+Qalyoubia,Surface_Water,Nile season,2020,115
+Giza,Surface_Water,Nile season,2020,20097
+Gharbiya,Surface_Water,Nile season,2020,5034
+Cairo,Surface_Water,Nile season,2020,0
+Alexandria,Surface_Water,Nile season,2020,4565
+New Vally,Groundwater,Nile season,2020,744
+Marsa Matrouh,Groundwater,Nile season,2020,N/A
+North Sinai,Groundwater,Nile season,2020,5
+South sinai,Groundwater,Nile season,2020,0
+Giza,Groundwater,Nile season,2020,111
+Luxor,Surface_Water,Nile season,2021,7335
+Fayoum,Surface_Water,Nile season,2021,21723
+Kafr El Sheikh,Surface_Water,Nile season,2021,0
+Bani Suef,Surface_Water,Nile season,2021,98304
+Port Said,Surface_Water,Nile season,2021,0
+Damietta,Surface_Water,Nile season,2021,0
+Ismailia,Surface_Water,Nile season,2021,0
+Monufia,Surface_Water,Nile season,2021,7684
+Sohag,Surface_Water,Nile season,2021,0
+Minya,Surface_Water,Nile season,2021,24273
+Suez,Surface_Water,Nile season,2021,1737
+Qena,Surface_Water,Nile season,2021,16365
+Sharqiya,Surface_Water,Nile season,2021,1306
+Asyut,Surface_Water,Nile season,2021,6858
+Aswan,Surface_Water,Nile season,2021,0
+Beheira,Surface_Water,Nile season,2021,29257
+Dakahlia,Surface_Water,Nile season,2021,108514
+Qalyoubia,Surface_Water,Nile season,2021,294
+Giza,Surface_Water,Nile season,2021,56290
+Gharbiya,Surface_Water,Nile season,2021,16171
+Cairo,Surface_Water,Nile season,2021,0
+Alexandria,Surface_Water,Nile season,2021,8611
+New Vally,Groundwater,Nile season,2021,1091
+Marsa Matrouh,Groundwater,Nile season,2021,N/A
+North Sinai,Groundwater,Nile season,2021,2
+South sinai,Groundwater,Nile season,2021,0
+Giza,Groundwater,Nile season,2021,31
+Luxor,Surface_Water,Nile season,2022,6748
+Fayoum,Surface_Water,Nile season,2022,8739
+Kafr El Sheikh,Surface_Water,Nile season,2022,0
+Bani Suef,Surface_Water,Nile season,2022,144417
+Port Said,Surface_Water,Nile season,2022,0
+Damietta,Surface_Water,Nile season,2022,0
+Ismailia,Surface_Water,Nile season,2022,0
+Monufia,Surface_Water,Nile season,2022,2407
+Sohag,Surface_Water,Nile season,2022,0
+Minya,Surface_Water,Nile season,2022,106967
+Suez,Surface_Water,Nile season,2022,0
+Qena,Surface_Water,Nile season,2022,16489
+Sharqiya,Surface_Water,Nile season,2022,52214
+Asyut,Surface_Water,Nile season,2022,3643
+Aswan,Surface_Water,Nile season,2022,42700
+Beheira,Surface_Water,Nile season,2022,1542
+Dakahlia,Surface_Water,Nile season,2022,50595
+Qalyoubia,Surface_Water,Nile season,2022,37
+Giza,Surface_Water,Nile season,2022,2701
+Gharbiya,Surface_Water,Nile season,2022,23108
+Cairo,Surface_Water,Nile season,2022,0
+Alexandria,Surface_Water,Nile season,2022,3687
+New Vally,Groundwater,Nile season,2022,238
+Marsa Matrouh,Groundwater,Nile season,2022,4
+North Sinai,Groundwater,Nile season,2022,2
+South sinai,Groundwater,Nile season,2022,0
+Giza,Groundwater,Nile season,2022,65
+Luxor,Surface_Water,Nile season,2023,2451
+Fayoum,Surface_Water,Nile season,2023,7439
+Kafr El Sheikh,Surface_Water,Nile season,2023,153
+Bani Suef,Surface_Water,Nile season,2023,94030
+Port Said,Surface_Water,Nile season,2023,0
+Damietta,Surface_Water,Nile season,2023,0
+Ismailia,Surface_Water,Nile season,2023,2241
+Monufia,Surface_Water,Nile season,2023,589
+Sohag,Surface_Water,Nile season,2023,0
+Minya,Surface_Water,Nile season,2023,115994
+Suez,Surface_Water,Nile season,2023,0
+Qena,Surface_Water,Nile season,2023,28047
+Sharqiya,Surface_Water,Nile season,2023,7503
+Asyut,Surface_Water,Nile season,2023,17699
+Aswan,Surface_Water,Nile season,2023,0
+Beheira,Surface_Water,Nile season,2023,6384
+Dakahlia,Surface_Water,Nile season,2023,37906
+Qalyoubia,Surface_Water,Nile season,2023,690
+Giza,Surface_Water,Nile season,2023,3124
+Gharbiya,Surface_Water,Nile season,2023,13110
+Cairo,Surface_Water,Nile season,2023,0
+Alexandria,Surface_Water,Nile season,2023,0
+New Vally,Groundwater,Nile season,2023,228
+Marsa Matrouh,Groundwater,Nile season,2023,5
+North Sinai,Groundwater,Nile season,2023,2
+South sinai,Groundwater,Nile season,2023,0
+Giza,Groundwater,Nile season,2023,62
+Luxor,Surface_Water,Perennial,2011,55850
+Fayoum,Surface_Water,Perennial,2011,81708
+Kafr El Sheikh,Surface_Water,Perennial,2011,4493
+Bani Suef,Surface_Water,Perennial,2011,42591
+Port Said,Surface_Water,Perennial,2011,N/A
+Damietta,Surface_Water,Perennial,2011,28162
+Ismailia,Surface_Water,Perennial,2011,270601
+Monufia,Surface_Water,Perennial,2011,62790
+Sohag,Surface_Water,Perennial,2011,23021
+Minya,Surface_Water,Perennial,2011,118321
+Suez,Surface_Water,Perennial,2011,11246
+Qena,Surface_Water,Perennial,2011,43965
+Sharqiya,Surface_Water,Perennial,2011,161247
+Asyut,Surface_Water,Perennial,2011,72763
+Aswan,Surface_Water,Perennial,2011,62583
+Beheira,Surface_Water,Perennial,2011,149995
+Dakahlia,Surface_Water,Perennial,2011,36285
+Qalyoubia,Surface_Water,Perennial,2011,55332
+Giza,Surface_Water,Perennial,2011,88895
+Gharbiya,Surface_Water,Perennial,2011,63096
+Cairo,Surface_Water,Perennial,2011,520
+Alexandria,Surface_Water,Perennial,2011,25279
+New Vally,Groundwater,Perennial,2011,6440
+Marsa Matrouh,Groundwater,Perennial,2011,97270
+North Sinai,Groundwater,Perennial,2011,26866
+South sinai,Groundwater,Perennial,2011,419450
+Giza,Groundwater,Perennial,2011,1988
+Luxor,Surface_Water,Perennial,2012,29420
+Fayoum,Surface_Water,Perennial,2012,142286
+Kafr El Sheikh,Surface_Water,Perennial,2012,12940
+Bani Suef,Surface_Water,Perennial,2012,69521
+Port Said,Surface_Water,Perennial,2012,N/A
+Damietta,Surface_Water,Perennial,2012,49593
+Ismailia,Surface_Water,Perennial,2012,302792
+Monufia,Surface_Water,Perennial,2012,95062
+Sohag,Surface_Water,Perennial,2012,41957
+Minya,Surface_Water,Perennial,2012,168798
+Suez,Surface_Water,Perennial,2012,16271
+Qena,Surface_Water,Perennial,2012,58383
+Sharqiya,Surface_Water,Perennial,2012,259183
+Asyut,Surface_Water,Perennial,2012,182731
+Aswan,Surface_Water,Perennial,2012,120493
+Beheira,Surface_Water,Perennial,2012,282370
+Dakahlia,Surface_Water,Perennial,2012,48798
+Qalyoubia,Surface_Water,Perennial,2012,93331
+Giza,Surface_Water,Perennial,2012,161118
+Gharbiya,Surface_Water,Perennial,2012,77582
+Cairo,Surface_Water,Perennial,2012,540
+Alexandria,Surface_Water,Perennial,2012,65505
+New Vally,Groundwater,Perennial,2012,10384
+Marsa Matrouh,Groundwater,Perennial,2012,82317
+North Sinai,Groundwater,Perennial,2012,81203
+South sinai,Groundwater,Perennial,2012,1849093
+Giza,Groundwater,Perennial,2012,1939
+Luxor,Surface_Water,Perennial,2013,74360
+Fayoum,Surface_Water,Perennial,2013,118334
+Kafr El Sheikh,Surface_Water,Perennial,2013,29074
+Bani Suef,Surface_Water,Perennial,2013,88918
+Port Said,Surface_Water,Perennial,2013,2126
+Damietta,Surface_Water,Perennial,2013,39899
+Ismailia,Surface_Water,Perennial,2013,376393
+Monufia,Surface_Water,Perennial,2013,230180
+Sohag,Surface_Water,Perennial,2013,48176
+Minya,Surface_Water,Perennial,2013,176903
+Suez,Surface_Water,Perennial,2013,14071
+Qena,Surface_Water,Perennial,2013,62429
+Sharqiya,Surface_Water,Perennial,2013,408980
+Asyut,Surface_Water,Perennial,2013,159049
+Aswan,Surface_Water,Perennial,2013,87926
+Beheira,Surface_Water,Perennial,2013,501379
+Dakahlia,Surface_Water,Perennial,2013,70907
+Qalyoubia,Surface_Water,Perennial,2013,260192
+Giza,Surface_Water,Perennial,2013,167221
+Gharbiya,Surface_Water,Perennial,2013,143296
+Cairo,Surface_Water,Perennial,2013,450
+Alexandria,Surface_Water,Perennial,2013,40753
+New Vally,Groundwater,Perennial,2013,11132
+Marsa Matrouh,Groundwater,Perennial,2013,12244
+North Sinai,Groundwater,Perennial,2013,86475
+South sinai,Groundwater,Perennial,2013,1009016
+Giza,Groundwater,Perennial,2013,13092
+Luxor,Surface_Water,Perennial,2014,13092
+Fayoum,Surface_Water,Perennial,2014,116624
+Kafr El Sheikh,Surface_Water,Perennial,2014,11505
+Bani Suef,Surface_Water,Perennial,2014,69904
+Port Said,Surface_Water,Perennial,2014,N/A
+Damietta,Surface_Water,Perennial,2014,36506
+Ismailia,Surface_Water,Perennial,2014,324338
+Monufia,Surface_Water,Perennial,2014,88611
+Sohag,Surface_Water,Perennial,2014,41461
+Minya,Surface_Water,Perennial,2014,175557
+Suez,Surface_Water,Perennial,2014,24494
+Qena,Surface_Water,Perennial,2014,64379
+Sharqiya,Surface_Water,Perennial,2014,313278
+Asyut,Surface_Water,Perennial,2014,129338
+Aswan,Surface_Water,Perennial,2014,88602
+Beheira,Surface_Water,Perennial,2014,215420
+Dakahlia,Surface_Water,Perennial,2014,47375
+Qalyoubia,Surface_Water,Perennial,2014,65322
+Giza,Surface_Water,Perennial,2014,150160
+Gharbiya,Surface_Water,Perennial,2014,78179
+Cairo,Surface_Water,Perennial,2014,279
+Alexandria,Surface_Water,Perennial,2014,37365
+New Vally,Groundwater,Perennial,2014,N/A
+Marsa Matrouh,Groundwater,Perennial,2014,N/A
+North Sinai,Groundwater,Perennial,2014,N/A
+South sinai,Groundwater,Perennial,2014,N/A
+Giza,Groundwater,Perennial,2014,N/A
+Luxor,Surface_Water,Perennial,2015,76017
+Fayoum,Surface_Water,Perennial,2015,120116
+Kafr El Sheikh,Surface_Water,Perennial,2015,29674
+Bani Suef,Surface_Water,Perennial,2015,83298
+Port Said,Surface_Water,Perennial,2015,N/A
+Damietta,Surface_Water,Perennial,2015,36346
+Ismailia,Surface_Water,Perennial,2015,383927
+Monufia,Surface_Water,Perennial,2015,220302
+Sohag,Surface_Water,Perennial,2015,51011
+Minya,Surface_Water,Perennial,2015,523465
+Suez,Surface_Water,Perennial,2015,28973
+Qena,Surface_Water,Perennial,2015,66637
+Sharqiya,Surface_Water,Perennial,2015,422515
+Asyut,Surface_Water,Perennial,2015,160877
+Aswan,Surface_Water,Perennial,2015,101664
+Beheira,Surface_Water,Perennial,2015,512447
+Dakahlia,Surface_Water,Perennial,2015,71897
+Qalyoubia,Surface_Water,Perennial,2015,249567
+Giza,Surface_Water,Perennial,2015,175808
+Gharbiya,Surface_Water,Perennial,2015,141505
+Cairo,Surface_Water,Perennial,2015,326
+Alexandria,Surface_Water,Perennial,2015,40042
+New Vally,Groundwater,Perennial,2015,11674
+Marsa Matrouh,Groundwater,Perennial,2015,123103
+North Sinai,Groundwater,Perennial,2015,82016
+South sinai,Groundwater,Perennial,2015,1164969
+Giza,Groundwater,Perennial,2015,27644
+Luxor,Surface_Water,Perennial,2016,100738
+Fayoum,Surface_Water,Perennial,2016,166841
+Kafr El Sheikh,Surface_Water,Perennial,2016,34754
+Bani Suef,Surface_Water,Perennial,2016,109144
+Port Said,Surface_Water,Perennial,2016,N/A
+Damietta,Surface_Water,Perennial,2016,53032
+Ismailia,Surface_Water,Perennial,2016,447369
+Monufia,Surface_Water,Perennial,2016,239687
+Sohag,Surface_Water,Perennial,2016,64986
+Minya,Surface_Water,Perennial,2016,248877
+Suez,Surface_Water,Perennial,2016,35258
+Qena,Surface_Water,Perennial,2016,84891
+Sharqiya,Surface_Water,Perennial,2016,464526
+Asyut,Surface_Water,Perennial,2016,221590
+Aswan,Surface_Water,Perennial,2016,139808
+Beheira,Surface_Water,Perennial,2016,596703
+Dakahlia,Surface_Water,Perennial,2016,77974
+Qalyoubia,Surface_Water,Perennial,2016,273871
+Giza,Surface_Water,Perennial,2016,234925
+Gharbiya,Surface_Water,Perennial,2016,164402
+Cairo,Surface_Water,Perennial,2016,386
+Alexandria,Surface_Water,Perennial,2016,42472
+New Vally,Groundwater,Perennial,2016,13092
+Marsa Matrouh,Groundwater,Perennial,2016,123104
+North Sinai,Groundwater,Perennial,2016,80660
+South sinai,Groundwater,Perennial,2016,1285216
+Giza,Groundwater,Perennial,2016,27381
+Luxor,Surface_Water,Perennial,2017,46157
+Fayoum,Surface_Water,Perennial,2017,162378
+Kafr El Sheikh,Surface_Water,Perennial,2017,34260
+Bani Suef,Surface_Water,Perennial,2017,106634
+Port Said,Surface_Water,Perennial,2017,2224
+Damietta,Surface_Water,Perennial,2017,52759
+Ismailia,Surface_Water,Perennial,2017,442590
+Monufia,Surface_Water,Perennial,2017,235200
+Sohag,Surface_Water,Perennial,2017,70168
+Minya,Surface_Water,Perennial,2017,246791
+Suez,Surface_Water,Perennial,2017,38552
+Qena,Surface_Water,Perennial,2017,89322
+Sharqiya,Surface_Water,Perennial,2017,485365
+Asyut,Surface_Water,Perennial,2017,230775
+Aswan,Surface_Water,Perennial,2017,208866
+Beheira,Surface_Water,Perennial,2017,592984
+Dakahlia,Surface_Water,Perennial,2017,85432
+Qalyoubia,Surface_Water,Perennial,2017,256800
+Giza,Surface_Water,Perennial,2017,218966
+Gharbiya,Surface_Water,Perennial,2017,164209
+Cairo,Surface_Water,Perennial,2017,346
+Alexandria,Surface_Water,Perennial,2017,44313
+New Vally,Groundwater,Perennial,2017,16450
+Marsa Matrouh,Groundwater,Perennial,2017,125978
+North Sinai,Groundwater,Perennial,2017,55454
+South sinai,Groundwater,Perennial,2017,15291
+Giza,Groundwater,Perennial,2017,19213
+Luxor,Surface_Water,Perennial,2018,84052
+Fayoum,Surface_Water,Perennial,2018,150341
+Kafr El Sheikh,Surface_Water,Perennial,2018,34473
+Bani Suef,Surface_Water,Perennial,2018,96668
+Port Said,Surface_Water,Perennial,2018,2197
+Damietta,Surface_Water,Perennial,2018,54222
+Ismailia,Surface_Water,Perennial,2018,436930
+Monufia,Surface_Water,Perennial,2018,226577
+Sohag,Surface_Water,Perennial,2018,55835
+Minya,Surface_Water,Perennial,2018,223149
+Suez,Surface_Water,Perennial,2018,38237
+Qena,Surface_Water,Perennial,2018,69646
+Sharqiya,Surface_Water,Perennial,2018,742648
+Asyut,Surface_Water,Perennial,2018,263146
+Aswan,Surface_Water,Perennial,2018,124671
+Beheira,Surface_Water,Perennial,2018,576753
+Dakahlia,Surface_Water,Perennial,2018,79031
+Qalyoubia,Surface_Water,Perennial,2018,244199
+Giza,Surface_Water,Perennial,2018,190737
+Gharbiya,Surface_Water,Perennial,2018,160218
+Cairo,Surface_Water,Perennial,2018,346
+Alexandria,Surface_Water,Perennial,2018,37176
+New Vally,Groundwater,Perennial,2018,16445
+Marsa Matrouh,Groundwater,Perennial,2018,127993
+North Sinai,Groundwater,Perennial,2018,38425
+South sinai,Groundwater,Perennial,2018,17207
+Giza,Groundwater,Perennial,2018,18350
+Luxor,Surface_Water,Perennial,2019,84208
+Fayoum,Surface_Water,Perennial,2019,151697
+Kafr El Sheikh,Surface_Water,Perennial,2019,33285
+Bani Suef,Surface_Water,Perennial,2019,90617
+Port Said,Surface_Water,Perennial,2019,2200
+Damietta,Surface_Water,Perennial,2019,54307
+Ismailia,Surface_Water,Perennial,2019,409335
+Monufia,Surface_Water,Perennial,2019,226820
+Sohag,Surface_Water,Perennial,2019,56033
+Minya,Surface_Water,Perennial,2019,215072
+Suez,Surface_Water,Perennial,2019,38348
+Qena,Surface_Water,Perennial,2019,69522
+Sharqiya,Surface_Water,Perennial,2019,437389
+Asyut,Surface_Water,Perennial,2019,268131
+Aswan,Surface_Water,Perennial,2019,124802
+Beheira,Surface_Water,Perennial,2019,579821
+Dakahlia,Surface_Water,Perennial,2019,97924
+Qalyoubia,Surface_Water,Perennial,2019,241479
+Giza,Surface_Water,Perennial,2019,191005
+Gharbiya,Surface_Water,Perennial,2019,161010
+Cairo,Surface_Water,Perennial,2019,323
+Alexandria,Surface_Water,Perennial,2019,46613
+New Vally,Groundwater,Perennial,2019,15172
+Marsa Matrouh,Groundwater,Perennial,2019,134869
+North Sinai,Groundwater,Perennial,2019,18181
+South sinai,Groundwater,Perennial,2019,20407
+Giza,Groundwater,Perennial,2019,21751
+Luxor,Surface_Water,Perennial,2020,177404
+Fayoum,Surface_Water,Perennial,2020,173783
+Kafr El Sheikh,Surface_Water,Perennial,2020,33266
+Bani Suef,Surface_Water,Perennial,2020,99916
+Port Said,Surface_Water,Perennial,2020,0
+Damietta,Surface_Water,Perennial,2020,54333
+Ismailia,Surface_Water,Perennial,2020,405941
+Monufia,Surface_Water,Perennial,2020,212102
+Sohag,Surface_Water,Perennial,2020,59077
+Minya,Surface_Water,Perennial,2020,216895
+Suez,Surface_Water,Perennial,2020,38200
+Qena,Surface_Water,Perennial,2020,70950
+Sharqiya,Surface_Water,Perennial,2020,436574
+Asyut,Surface_Water,Perennial,2020,242502
+Aswan,Surface_Water,Perennial,2020,43013
+Beheira,Surface_Water,Perennial,2020,575820
+Dakahlia,Surface_Water,Perennial,2020,78555
+Qalyoubia,Surface_Water,Perennial,2020,238037
+Giza,Surface_Water,Perennial,2020,207745
+Gharbiya,Surface_Water,Perennial,2020,162370
+Cairo,Surface_Water,Perennial,2020,304
+Alexandria,Surface_Water,Perennial,2020,47159
+New Vally,Groundwater,Perennial,2020,28663
+Marsa Matrouh,Groundwater,Perennial,2020,136131
+North Sinai,Groundwater,Perennial,2020,25551
+South sinai,Groundwater,Perennial,2020,21826
+Giza,Groundwater,Perennial,2020,11585
+Luxor,Surface_Water,Perennial,2021,74959
+Fayoum,Surface_Water,Perennial,2021,141284
+Kafr El Sheikh,Surface_Water,Perennial,2021,32811
+Bani Suef,Surface_Water,Perennial,2021,79360
+Port Said,Surface_Water,Perennial,2021,2192
+Damietta,Surface_Water,Perennial,2021,50504
+Ismailia,Surface_Water,Perennial,2021,388957
+Monufia,Surface_Water,Perennial,2021,208348
+Sohag,Surface_Water,Perennial,2021,49435
+Minya,Surface_Water,Perennial,2021,184208
+Suez,Surface_Water,Perennial,2021,38090
+Qena,Surface_Water,Perennial,2021,57994
+Sharqiya,Surface_Water,Perennial,2021,419813
+Asyut,Surface_Water,Perennial,2021,184040
+Aswan,Surface_Water,Perennial,2021,104657
+Beheira,Surface_Water,Perennial,2021,528342
+Dakahlia,Surface_Water,Perennial,2021,68331
+Qalyoubia,Surface_Water,Perennial,2021,236779
+Giza,Surface_Water,Perennial,2021,182740
+Gharbiya,Surface_Water,Perennial,2021,155052
+Cairo,Surface_Water,Perennial,2021,284
+Alexandria,Surface_Water,Perennial,2021,39202
+New Vally,Groundwater,Perennial,2021,28661
+Marsa Matrouh,Groundwater,Perennial,2021,143075
+North Sinai,Groundwater,Perennial,2021,19019
+South sinai,Groundwater,Perennial,2021,35298
+Giza,Groundwater,Perennial,2021,11585
+Luxor,Surface_Water,Perennial,2022,74967
+Fayoum,Surface_Water,Perennial,2022,141491
+Kafr El Sheikh,Surface_Water,Perennial,2022,33121
+Bani Suef,Surface_Water,Perennial,2022,79423
+Port Said,Surface_Water,Perennial,2022,2192
+Damietta,Surface_Water,Perennial,2022,50630
+Ismailia,Surface_Water,Perennial,2022,389652
+Monufia,Surface_Water,Perennial,2022,204857
+Sohag,Surface_Water,Perennial,2022,48648
+Minya,Surface_Water,Perennial,2022,186569
+Suez,Surface_Water,Perennial,2022,38097
+Qena,Surface_Water,Perennial,2022,54817
+Sharqiya,Surface_Water,Perennial,2022,431326
+Asyut,Surface_Water,Perennial,2022,198440
+Aswan,Surface_Water,Perennial,2022,104305
+Beheira,Surface_Water,Perennial,2022,532324
+Dakahlia,Surface_Water,Perennial,2022,67121
+Qalyoubia,Surface_Water,Perennial,2022,236747
+Giza,Surface_Water,Perennial,2022,179411
+Gharbiya,Surface_Water,Perennial,2022,153168
+Cairo,Surface_Water,Perennial,2022,284
+Alexandria,Surface_Water,Perennial,2022,40488
+New Vally,Groundwater,Perennial,2022,28662
+Marsa Matrouh,Groundwater,Perennial,2022,148995
+North Sinai,Groundwater,Perennial,2022,23991
+South sinai,Groundwater,Perennial,2022,35298
+Giza,Groundwater,Perennial,2022,23026
+Luxor,Surface_Water,Perennial,2023,75347
+Fayoum,Surface_Water,Perennial,2023,134133
+Kafr El Sheikh,Surface_Water,Perennial,2023,29648
+Bani Suef,Surface_Water,Perennial,2023,68191
+Port Said,Surface_Water,Perennial,2023,1768
+Damietta,Surface_Water,Perennial,2023,43970
+Ismailia,Surface_Water,Perennial,2023,365972
+Monufia,Surface_Water,Perennial,2023,173480
+Sohag,Surface_Water,Perennial,2023,38151
+Minya,Surface_Water,Perennial,2023,167267
+Suez,Surface_Water,Perennial,2023,40155
+Qena,Surface_Water,Perennial,2023,51747
+Sharqiya,Surface_Water,Perennial,2023,545983
+Asyut,Surface_Water,Perennial,2023,145828
+Aswan,Surface_Water,Perennial,2023,100844
+Beheira,Surface_Water,Perennial,2023,515762
+Dakahlia,Surface_Water,Perennial,2023,77692
+Qalyoubia,Surface_Water,Perennial,2023,231228
+Giza,Surface_Water,Perennial,2023,156948
+Gharbiya,Surface_Water,Perennial,2023,145199
+Cairo,Surface_Water,Perennial,2023,271
+Alexandria,Surface_Water,Perennial,2023,40119
+New Vally,Groundwater,Perennial,2023,36417
+Marsa Matrouh,Groundwater,Perennial,2023,160069
+North Sinai,Groundwater,Perennial,2023,20331
+South sinai,Groundwater,Perennial,2023,30481
+Giza,Groundwater,Perennial,2023,23026

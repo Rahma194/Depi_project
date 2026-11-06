@@ -1,0 +1,470 @@
+Crop,Season,Year,Water_Consumption
+Sugar Beet,Winter,2011,618118.0
+Sugar Beet,Winter,2012,574576.0
+Sugar Beet,Winter,2013,863085.0
+Sugar Beet,Winter,2014,977227.0
+Sugar Beet,Winter,2015,1020059.0
+Sugar Beet,Winter,2016,1109127.0
+Sugar Beet,Winter,2017,1056254.0
+Sugar Beet,Winter,2018,1044683.0
+Sugar Beet,Winter,2019,1808809.0
+Sugar Beet,Winter,2020,715828.0
+Sugar Beet,Winter,2021,1240956.0
+Sugar Beet,Winter,2022,1087925.0
+Sugar Beet,Winter,2023,1261021.0
+Wheat,Winter,2011,4156133.0
+Wheat,Winter,2012,4412625.0
+Wheat,Winter,2013,5708154.0
+Wheat,Winter,2014,5916342.0
+Wheat,Winter,2015,5811857.0
+Wheat,Winter,2016,6163666.0
+Wheat,Winter,2017,4858120.0
+Wheat,Winter,2018,5367136.0
+Wheat,Winter,2019,5611016.0
+Wheat,Winter,2020,3130343.0
+Wheat,Winter,2021,6063736.0
+Wheat,Winter,2022,5680058.0
+Wheat,Winter,2023,4961025.0
+Barley ,Winter,2011,20059.0
+Barley ,Winter,2012,18008.0
+Barley ,Winter,2013,19519.0
+Barley ,Winter,2014,20688.0
+Barley ,Winter,2015,16689.0
+Barley ,Winter,2016,14898.0
+Barley ,Winter,2017,19501.0
+Barley ,Winter,2018,15095.0
+Barley ,Winter,2019,26456.0
+Barley ,Winter,2020,8077.0
+Barley ,Winter,2021,19819.0
+Barley ,Winter,2022,20835.0
+Barley ,Winter,2023,36722.0
+Flax,Winter,2011,8742.0
+Flax,Winter,2012,11063.0
+Flax,Winter,2013,4771.0
+Flax,Winter,2014,10231.0
+Flax,Winter,2015,10952.0
+Flax,Winter,2016,15966.0
+Flax,Winter,2017,18217.0
+Flax,Winter,2018,19539.0
+Flax,Winter,2019,32166.0
+Flax,Winter,2020,30743.0
+Flax,Winter,2021,8306.0
+Flax,Winter,2022,30183.0
+Flax,Winter,2023,36675.0
+vegetables,Winter,2011,648609.0
+vegetables,Winter,2012,618774.0
+vegetables,Winter,2013,691525.0
+vegetables,Winter,2014,633660.0
+vegetables,Winter,2015,703708.0
+vegetables,Winter,2016,971723.0
+vegetables,Winter,2017,870921.0
+vegetables,Winter,2018,967737.0
+vegetables,Winter,2019,766153.0
+vegetables,Winter,2020,521973.0
+vegetables,Winter,2021,929151.0
+vegetables,Winter,2022,829300.0
+vegetables,Winter,2023,994545.0
+"Medical, Aromatic Plant",Winter,2011,96147.0
+"Medical, Aromatic Plant",Winter,2012,50811.0
+"Medical, Aromatic Plant",Winter,2013,41030.0
+"Medical, Aromatic Plant",Winter,2014,48166.0
+"Medical, Aromatic Plant",Winter,2015,49779.0
+"Medical, Aromatic Plant",Winter,2016,76173.0
+"Medical, Aromatic Plant",Winter,2017,84766.0
+"Medical, Aromatic Plant",Winter,2018,87175.0
+"Medical, Aromatic Plant",Winter,2019,104377.0
+"Medical, Aromatic Plant",Winter,2020,12220.0
+"Medical, Aromatic Plant",Winter,2021,110526.0
+"Medical, Aromatic Plant",Winter,2022,75694.0
+"Medical, Aromatic Plant",Winter,2023,111666.0
+Beans,Winter,2011,94639.0
+Beans,Winter,2012,87722.0
+Beans,Winter,2013,122865.0
+Beans,Winter,2014,92629.0
+Beans,Winter,2015,86395.0
+Beans,Winter,2016,87209.0
+Beans,Winter,2017,121111.0
+Beans,Winter,2018,78122.0
+Beans,Winter,2019,46214.0
+Beans,Winter,2020,49467.0
+Beans,Winter,2021,83409.0
+Beans,Winter,2022,46112.0
+Beans,Winter,2023,86377.0
+Lupine,Winter,2011,1558.0
+Lupine,Winter,2012,1172.0
+Lupine,Winter,2013,587.0
+Lupine,Winter,2014,473.0
+Lupine,Winter,2015,547.0
+Lupine,Winter,2016,557.0
+Lupine,Winter,2017,312.0
+Lupine,Winter,2018,147.0
+Lupine,Winter,2019,377.0
+Lupine,Winter,2020,71.0
+Lupine,Winter,2021,250.0
+Lupine,Winter,2022,199.0
+Lupine,Winter,2023,250.0
+Onion,Winter,2011,166441.0
+Onion,Winter,2012,156965.0
+Onion,Winter,2013,170203.0
+Onion,Winter,2014,228822.0
+Onion,Winter,2015,237232.0
+Onion,Winter,2016,209528.0
+Onion,Winter,2017,279964.0
+Onion,Winter,2018,286718.0
+Onion,Winter,2019,369931.0
+Onion,Winter,2020,194889.0
+Onion,Winter,2021,365327.0
+Onion,Winter,2022,308906.0
+Onion,Winter,2023,338041.0
+Garlic,Winter,2011,51674.0
+Garlic,Winter,2012,42594.0
+Garlic,Winter,2013,35433.0
+Garlic,Winter,2014,40490.0
+Garlic,Winter,2015,44022.0
+Garlic,Winter,2016,60998.0
+Garlic,Winter,2017,59897.0
+Garlic,Winter,2018,79471.0
+Garlic,Winter,2019,78807.0
+Garlic,Winter,2020,5149.0
+Garlic,Winter,2021,94625.0
+Garlic,Winter,2022,78333.0
+Garlic,Winter,2023,106947.0
+Fenugreek,Winter,2011,13027.0
+Fenugreek,Winter,2012,6855.0
+Fenugreek,Winter,2013,7909.0
+Fenugreek,Winter,2014,8559.0
+Fenugreek,Winter,2015,7285.0
+Fenugreek,Winter,2016,8835.0
+Fenugreek,Winter,2017,6036.0
+Fenugreek,Winter,2018,4960.0
+Fenugreek,Winter,2019,4740.0
+Fenugreek,Winter,2020,2.0
+Fenugreek,Winter,2021,8697.0
+Fenugreek,Winter,2022,3591.0
+Fenugreek,Winter,2023,9017.0
+Lentil,Winter,2011,2618.0
+Lentil,Winter,2012,836.0
+Lentil,Winter,2013,1055.0
+Lentil,Winter,2014,1133.0
+Lentil,Winter,2015,1551.0
+Lentil,Winter,2016,1777.0
+Lentil,Winter,2017,2426.0
+Lentil,Winter,2018,1485.0
+Lentil,Winter,2019,639.0
+Lentil,Winter,2020,650.0
+Lentil,Winter,2021,570.0
+Lentil,Winter,2022,270.0
+Lentil,Winter,2023,481.0
+Chickpeas,Winter,2011,13809.0
+Chickpeas,Winter,2012,6734.0
+Chickpeas,Winter,2013,2990.0
+Chickpeas,Winter,2014,3049.4
+Chickpeas,Winter,2015,2642.0
+Chickpeas,Winter,2016,7213.0
+Chickpeas,Winter,2017,10119.0
+Chickpeas,Winter,2018,13789.0
+Chickpeas,Winter,2019,6710.0
+Chickpeas,Winter,2020,0.0
+Chickpeas,Winter,2021,1721.0
+Chickpeas,Winter,2022,3470.0
+Chickpeas,Winter,2023,3445.0
+Clover,Winter,2011,3417231.0
+Clover,Winter,2012,3032940.0
+Clover,Winter,2013,3582707.0
+Clover,Winter,2014,3430421.0
+Clover,Winter,2015,3406226.0
+Clover,Winter,2016,4006673.0
+Clover,Winter,2017,3610777.0
+Clover,Winter,2018,2855348.0
+Clover,Winter,2019,3194972.0
+Clover,Winter,2020,2439406.0
+Clover,Winter,2021,3312642.0
+Clover,Winter,2022,2790952.0
+Clover,Winter,2023,3267253.0
+Other varieties,Winter,2011,809.0
+Other varieties,Winter,2012,815.0
+Other varieties,Winter,2013,943.0
+Other varieties,Winter,2014,131.0
+Other varieties,Winter,2015,83.0
+Other varieties,Winter,2016,1199.0
+Other varieties,Winter,2017,725.0
+Other varieties,Winter,2018,10991.0
+Other varieties,Winter,2020,90.0
+Sunflower,Summer,2011,35237.0
+Sunflower,Summer,2012,9477.1
+Sunflower,Summer,2013,21164.3
+Sunflower,Summer,2014,22090.1
+Sunflower,Summer,2015,18047.0
+Sunflower,Summer,2016,26682.0
+Sunflower,Summer,2017,27651.0
+Sunflower,Summer,2018,23000.0
+Sunflower,Summer,2019,24767.0
+Sunflower,Summer,2020,36672.0
+Sunflower,Summer,2021,43804.0
+Sunflower,Summer,2022,126113.0
+Sunflower,Summer,2023,61721.0
+Sugar Cane,Summer,2011,2615297.0
+Sugar Cane,Summer,2012,2963477.7
+Sugar Cane,Summer,2013,3081089.5
+Sugar Cane,Summer,2014,3158334.8
+Sugar Cane,Summer,2015,3180870.0
+Sugar Cane,Summer,2016,3382876.0
+Sugar Cane,Summer,2017,2994166.0
+Sugar Cane,Summer,2018,2848673.0
+Sugar Cane,Summer,2019,3100805.0
+Sugar Cane,Summer,2020,3138365.0
+Sugar Cane,Summer,2021,2993732.0
+Sugar Cane,Summer,2022,2825887.0
+Sugar Cane,Summer,2023,2718925.0
+Rice,Summer,2011,5717526.0
+Rice,Summer,2012,5426086.5
+Rice,Summer,2013,8660206.8
+Rice,Summer,2014,8504238.0
+Rice,Summer,2015,5978586.0
+Rice,Summer,2016,6850869.0
+Rice,Summer,2017,7937230.0
+Rice,Summer,2018,5060741.0
+Rice,Summer,2019,7987679.0
+Rice,Summer,2020,7001375.0
+Rice,Summer,2021,6782155.0
+Rice,Summer,2022,7120806.0
+Rice,Summer,2023,9043052.0
+Cotton,Summer,2011,1824508.0
+Cotton,Summer,2012,1158330.7
+Cotton,Summer,2013,1095756.5
+Cotton,Summer,2014,1327354.2
+Cotton,Summer,2015,862496.0
+Cotton,Summer,2016,328372.0
+Cotton,Summer,2017,715821.0
+Cotton,Summer,2018,989151.0
+Cotton,Summer,2019,576306.0
+Cotton,Summer,2020,564625.0
+Cotton,Summer,2021,739705.0
+Cotton,Summer,2022,1038763.0
+Cotton,Summer,2023,789718.0
+Sorghum,Summer,2011,1021464.0
+Sorghum,Summer,2012,1100113.6
+Sorghum,Summer,2013,1099612.9
+Sorghum,Summer,2014,1177750.0
+Sorghum,Summer,2015,1165556.0
+Sorghum,Summer,2016,1479704.0
+Sorghum,Summer,2017,1482583.0
+Sorghum,Summer,2018,1398072.0
+Sorghum,Summer,2019,1418289.0
+Sorghum,Summer,2020,1424264.0
+Sorghum,Summer,2021,1398581.0
+Sorghum,Summer,2022,1771802.0
+Sorghum,Summer,2023,1239309.0
+Maize,Summer,2011,4585499.0
+Maize,Summer,2012,5520366.0
+Maize,Summer,2013,5793660.5
+Maize,Summer,2014,6039328.4
+Maize,Summer,2015,6154483.0
+Maize,Summer,2016,8041750.0
+Maize,Summer,2017,8343090.0
+Maize,Summer,2018,7444348.0
+Maize,Summer,2019,7783842.0
+Maize,Summer,2020,7511566.0
+Maize,Summer,2021,7884808.0
+Maize,Summer,2022,6699786.0
+Maize,Summer,2023,6245209.0
+vegetables,Summer,2011,1438893.0
+vegetables,Summer,2012,32815.8
+vegetables,Summer,2013,1470224.3
+vegetables,Summer,2014,1542470.0
+vegetables,Summer,2015,1519685.0
+vegetables,Summer,2016,1749610.0
+vegetables,Summer,2017,1069003.0
+vegetables,Summer,2018,1796945.0
+vegetables,Summer,2019,1382979.0
+vegetables,Summer,2020,1277716.0
+vegetables,Summer,2021,1023253.0
+vegetables,Summer,2022,983158.0
+vegetables,Summer,2023,1026269.0
+"Medical, Aromatic Plant",Summer,2011,58628.0
+"Medical, Aromatic Plant",Summer,2012,53166.1
+"Medical, Aromatic Plant",Summer,2013,56191.6
+"Medical, Aromatic Plant",Summer,2014,62078.2
+"Medical, Aromatic Plant",Summer,2015,76169.0
+"Medical, Aromatic Plant",Summer,2016,58736.0
+"Medical, Aromatic Plant",Summer,2017,76297.0
+"Medical, Aromatic Plant",Summer,2018,53021.0
+"Medical, Aromatic Plant",Summer,2019,82143.0
+"Medical, Aromatic Plant",Summer,2020,73621.0
+"Medical, Aromatic Plant",Summer,2021,55188.0
+"Medical, Aromatic Plant",Summer,2022,41440.0
+"Medical, Aromatic Plant",Summer,2023,52871.0
+Onion,Summer,2011,40800.0
+Onion,Summer,2012,5403.0
+Onion,Summer,2013,16446.6
+Onion,Summer,2014,16897.5
+Onion,Summer,2015,16755.0
+Onion,Summer,2016,8367.0
+Onion,Summer,2017,10375.0
+Onion,Summer,2018,12088.0
+Onion,Summer,2019,10668.0
+Onion,Summer,2020,7882.0
+Onion,Summer,2021,5818.0
+Onion,Summer,2022,8058.0
+Onion,Summer,2023,12325.0
+Sesame,Summer,2011,121968.0
+Sesame,Summer,2012,79090.4
+Sesame,Summer,2013,77284.8
+Sesame,Summer,2014,91455.4
+Sesame,Summer,2015,139816.0
+Sesame,Summer,2016,158264.0
+Sesame,Summer,2017,112769.0
+Sesame,Summer,2018,120302.0
+Sesame,Summer,2019,157018.0
+Sesame,Summer,2020,217326.0
+Sesame,Summer,2021,153346.0
+Sesame,Summer,2022,172988.0
+Sesame,Summer,2023,139664.0
+Green Fodder,Summer,2011,742627.0
+Green Fodder,Summer,2012,95469.5
+Green Fodder,Summer,2013,418209.1
+Green Fodder,Summer,2014,1079800.3
+Green Fodder,Summer,2015,1253338.0
+Green Fodder,Summer,2016,2383828.0
+Green Fodder,Summer,2017,2722136.0
+Green Fodder,Summer,2018,825916.0
+Green Fodder,Summer,2019,729142.0
+Green Fodder,Summer,2020,839099.0
+Green Fodder,Summer,2021,775675.0
+Green Fodder,Summer,2022,1054633.0
+Green Fodder,Summer,2023,868464.0
+Alfalfa,Summer,2019,23439.0
+Alfalfa,Summer,2020,12460.0
+Alfalfa,Summer,2021,15845.0
+Alfalfa,Summer,2022,33483.0
+Alfalfa,Summer,2023,28753.0
+Peanuts,Summer,2011,134542.0
+Peanuts,Summer,2012,120232.4
+Peanuts,Summer,2013,112294.3
+Peanuts,Summer,2014,94430.5
+Peanuts,Summer,2015,137096.0
+Peanuts,Summer,2016,170657.0
+Peanuts,Summer,2017,132024.0
+Peanuts,Summer,2018,116852.0
+Peanuts,Summer,2019,117964.0
+Peanuts,Summer,2020,131651.0
+Peanuts,Summer,2021,124699.0
+Peanuts,Summer,2022,126343.0
+Peanuts,Summer,2023,122497.0
+Soybean,Summer,2011,74600.0
+Soybean,Summer,2012,54847.2
+Soybean,Summer,2013,72933.4
+Soybean,Summer,2014,92906.1
+Soybean,Summer,2015,108774.0
+Soybean,Summer,2016,147193.0
+Soybean,Summer,2017,136889.0
+Soybean,Summer,2018,146341.0
+Soybean,Summer,2019,137548.0
+Soybean,Summer,2020,135971.0
+Soybean,Summer,2021,213173.0
+Soybean,Summer,2022,225383.0
+Soybean,Summer,2023,420797.0
+Other varieties,Summer,2011,22778.0
+Other varieties,Summer,2012,32815.8
+Other varieties,Summer,2013,27898.9
+Other varieties,Summer,2014,32705.4
+Other varieties,Summer,2015,35178.0
+Other varieties,Summer,2016,987407.0
+Other varieties,Summer,2017,165360.0
+Other varieties,Summer,2018,24926.0
+Other varieties,Summer,2020,5824.0
+Other varieties,Summer,2021,7021.0
+Other varieties,Summer,2022,2837.0
+Other varieties,Summer,2023,6146.0
+Sunflower,Nile season,2011,748.0
+Sunflower,Nile season,2012,162.0
+Sunflower,Nile season,2013,13.0
+Sunflower,Nile season,2014,443.0
+Sunflower,Nile season,2015,330.0
+Sunflower,Nile season,2016,73.0
+Sunflower,Nile season,2017,73.0
+Sunflower,Nile season,2018,187.0
+Sunflower,Nile season,2019,527.0
+Sunflower,Nile season,2020,75.0
+Sunflower,Nile season,2021,240.0
+Sunflower,Nile season,2022,603.0
+Sunflower,Nile season,2023,5654.0
+Sorghum,Nile season,2011,7636.0
+Sorghum,Nile season,2012,6431.0
+Sorghum,Nile season,2013,5019.0
+Sorghum,Nile season,2014,3457.0
+Sorghum,Nile season,2015,7052.0
+Sorghum,Nile season,2016,7600.0
+Sorghum,Nile season,2017,5041.0
+Sorghum,Nile season,2018,4144.0
+Sorghum,Nile season,2019,3419.0
+Sorghum,Nile season,2020,3401.0
+Sorghum,Nile season,2021,2271.0
+Sorghum,Nile season,2022,8704.0
+Sorghum,Nile season,2023,3401.0
+Maize,Nile season,2011,759016.0
+Maize,Nile season,2012,714781.0
+Maize,Nile season,2013,689735.0
+Maize,Nile season,2014,618778.0
+Maize,Nile season,2015,557559.0
+Maize,Nile season,2016,645194.0
+Maize,Nile season,2017,584526.0
+Maize,Nile season,2018,419817.0
+Maize,Nile season,2019,400325.0
+Maize,Nile season,2020,264748.0
+Maize,Nile season,2021,297819.0
+Maize,Nile season,2022,292109.0
+Maize,Nile season,2023,147104.0
+vegetables,Nile season,2011,396251.0
+vegetables,Nile season,2012,422931.0
+vegetables,Nile season,2013,430529.0
+vegetables,Nile season,2014,474270.0
+vegetables,Nile season,2015,281604.0
+vegetables,Nile season,2016,393801.0
+vegetables,Nile season,2017,393801.0
+vegetables,Nile season,2018,290558.0
+vegetables,Nile season,2019,163963.0
+vegetables,Nile season,2020,150295.0
+vegetables,Nile season,2021,63268.0
+vegetables,Nile season,2022,126188.0
+vegetables,Nile season,2023,122998.0
+"Medical, Aromatic Plant",Nile season,2015,1664.0
+"Medical, Aromatic Plant",Nile season,2016,4398.0
+"Medical, Aromatic Plant",Nile season,2017,4398.0
+"Medical, Aromatic Plant",Nile season,2018,1973.0
+"Medical, Aromatic Plant",Nile season,2019,2028.0
+"Medical, Aromatic Plant",Nile season,2020,7729.0
+"Medical, Aromatic Plant",Nile season,2021,5137.0
+"Medical, Aromatic Plant",Nile season,2022,11262.0
+"Medical, Aromatic Plant",Nile season,2023,3935.0
+Onion,Nile season,2011,47463.0
+Onion,Nile season,2012,26828.0
+Onion,Nile season,2013,31163.0
+Onion,Nile season,2014,24680.0
+Onion,Nile season,2015,17155.0
+Onion,Nile season,2016,29544.0
+Onion,Nile season,2017,19033.0
+Onion,Nile season,2018,20640.0
+Onion,Nile season,2019,21153.0
+Onion,Nile season,2020,28160.0
+Onion,Nile season,2021,28401.0
+Onion,Nile season,2022,17587.0
+Onion,Nile season,2023,31358.0
+Sesame,Nile season,2015,8018.0
+Sesame,Nile season,2016,5229.0
+Sesame,Nile season,2017,5229.0
+Sesame,Nile season,2018,3483.0
+Sesame,Nile season,2019,5361.0
+Sesame,Nile season,2020,4651.0
+Sesame,Nile season,2021,4501.0
+Sesame,Nile season,2022,199.0
+Sesame,Nile season,2023,0.0
+Green Fodder,Nile season,2015,82479.0
+Green Fodder,Nile season,2016,64837.0
+Green Fodder,Nile season,2017,64837.0
+Green Fodder,Nile season,2018,64942.0
+Green Fodder,Nile season,2019,23570.0
+Green Fodder,Nile season,2020,3930.0
+Green Fodder,Nile season,2021,3085.0
+Green Fodder,Nile season,2022,9335.0
+Green Fodder,Nile season,2023,7104.0
