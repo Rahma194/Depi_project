@@ -1,4 +1,4 @@
-Crop,Season,Year,Water_Consumption
+﻿crop,season,year,water_consumption
 Sugar Beet,Winter,2011,618118.0
 Sugar Beet,Winter,2012,574576.0
 Sugar Beet,Winter,2013,863085.0
@@ -25,19 +25,19 @@ Wheat,Winter,2020,3130343.0
 Wheat,Winter,2021,6063736.0
 Wheat,Winter,2022,5680058.0
 Wheat,Winter,2023,4961025.0
-Barley ,Winter,2011,20059.0
-Barley ,Winter,2012,18008.0
-Barley ,Winter,2013,19519.0
-Barley ,Winter,2014,20688.0
-Barley ,Winter,2015,16689.0
-Barley ,Winter,2016,14898.0
-Barley ,Winter,2017,19501.0
-Barley ,Winter,2018,15095.0
-Barley ,Winter,2019,26456.0
-Barley ,Winter,2020,8077.0
-Barley ,Winter,2021,19819.0
-Barley ,Winter,2022,20835.0
-Barley ,Winter,2023,36722.0
+Barley,Winter,2011,20059.0
+Barley,Winter,2012,18008.0
+Barley,Winter,2013,19519.0
+Barley,Winter,2014,20688.0
+Barley,Winter,2015,16689.0
+Barley,Winter,2016,14898.0
+Barley,Winter,2017,19501.0
+Barley,Winter,2018,15095.0
+Barley,Winter,2019,26456.0
+Barley,Winter,2020,8077.0
+Barley,Winter,2021,19819.0
+Barley,Winter,2022,20835.0
+Barley,Winter,2023,36722.0
 Flax,Winter,2011,8742.0
 Flax,Winter,2012,11063.0
 Flax,Winter,2013,4771.0
@@ -189,7 +189,11 @@ Other varieties,Winter,2015,83.0
 Other varieties,Winter,2016,1199.0
 Other varieties,Winter,2017,725.0
 Other varieties,Winter,2018,10991.0
+Other varieties,Winter,2019,
 Other varieties,Winter,2020,90.0
+Other varieties,Winter,2021,
+Other varieties,Winter,2022,
+Other varieties,Winter,2023,
 Sunflower,Summer,2011,35237.0
 Sunflower,Summer,2012,9477.1
 Sunflower,Summer,2013,21164.3
@@ -333,6 +337,14 @@ Green Fodder,Summer,2020,839099.0
 Green Fodder,Summer,2021,775675.0
 Green Fodder,Summer,2022,1054633.0
 Green Fodder,Summer,2023,868464.0
+Alfalfa,Summer,2011,
+Alfalfa,Summer,2012,
+Alfalfa,Summer,2013,
+Alfalfa,Summer,2014,
+Alfalfa,Summer,2015,
+Alfalfa,Summer,2016,
+Alfalfa,Summer,2017,
+Alfalfa,Summer,2018,
 Alfalfa,Summer,2019,23439.0
 Alfalfa,Summer,2020,12460.0
 Alfalfa,Summer,2021,15845.0
@@ -372,6 +384,7 @@ Other varieties,Summer,2015,35178.0
 Other varieties,Summer,2016,987407.0
 Other varieties,Summer,2017,165360.0
 Other varieties,Summer,2018,24926.0
+Other varieties,Summer,2019,
 Other varieties,Summer,2020,5824.0
 Other varieties,Summer,2021,7021.0
 Other varieties,Summer,2022,2837.0
@@ -428,6 +441,10 @@ vegetables,Nile season,2020,150295.0
 vegetables,Nile season,2021,63268.0
 vegetables,Nile season,2022,126188.0
 vegetables,Nile season,2023,122998.0
+"Medical, Aromatic Plant",Nile season,2011,
+"Medical, Aromatic Plant",Nile season,2012,
+"Medical, Aromatic Plant",Nile season,2013,
+"Medical, Aromatic Plant",Nile season,2014,
 "Medical, Aromatic Plant",Nile season,2015,1664.0
 "Medical, Aromatic Plant",Nile season,2016,4398.0
 "Medical, Aromatic Plant",Nile season,2017,4398.0
@@ -450,6 +467,10 @@ Onion,Nile season,2020,28160.0
 Onion,Nile season,2021,28401.0
 Onion,Nile season,2022,17587.0
 Onion,Nile season,2023,31358.0
+Sesame,Nile season,2011,
+Sesame,Nile season,2012,
+Sesame,Nile season,2013,
+Sesame,Nile season,2014,
 Sesame,Nile season,2015,8018.0
 Sesame,Nile season,2016,5229.0
 Sesame,Nile season,2017,5229.0
@@ -459,6 +480,10 @@ Sesame,Nile season,2020,4651.0
 Sesame,Nile season,2021,4501.0
 Sesame,Nile season,2022,199.0
 Sesame,Nile season,2023,0.0
+Green Fodder,Nile season,2011,
+Green Fodder,Nile season,2012,
+Green Fodder,Nile season,2013,
+Green Fodder,Nile season,2014,
 Green Fodder,Nile season,2015,82479.0
 Green Fodder,Nile season,2016,64837.0
 Green Fodder,Nile season,2017,64837.0

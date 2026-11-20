@@ -24,7 +24,7 @@ Alexandria,Surface_Water,Winter,2011,13463
 New Vally,Groundwater,Winter,2011,165343
 Marsa Matrouh,Groundwater,Winter,2011,100809
 North Sinai,Groundwater,Winter,2011,1941
-South sinai,Groundwater,Winter,2011,87
+South Sinai,Groundwater,Winter,2011,87
 Giza,Groundwater,Winter,2011,8192
 Luxor,Surface_Water,Winter,2012,86429.9
 Fayoum,Surface_Water,Winter,2012,725585.8
@@ -51,7 +51,7 @@ Alexandria,Surface_Water,Winter,2012,13160
 New Vally,Groundwater,Winter,2012,196486
 Marsa Matrouh,Groundwater,Winter,2012,144828
 North Sinai,Groundwater,Winter,2012,9249
-South sinai,Groundwater,Winter,2012,611
+South Sinai,Groundwater,Winter,2012,611
 Giza,Groundwater,Winter,2012,6750
 Luxor,Surface_Water,Winter,2013,96429.4
 Fayoum,Surface_Water,Winter,2013,840772.6
@@ -78,7 +78,7 @@ Alexandria,Surface_Water,Winter,2013,134128.5
 New Vally,Groundwater,Winter,2013,217805
 Marsa Matrouh,Groundwater,Winter,2013,248
 North Sinai,Groundwater,Winter,2013,5273
-South sinai,Groundwater,Winter,2013,1601
+South Sinai,Groundwater,Winter,2013,1601
 Giza,Groundwater,Winter,2013,29561
 Luxor,Surface_Water,Winter,2014,92294.6
 Fayoum,Surface_Water,Winter,2014,850006.4
@@ -105,7 +105,7 @@ Alexandria,Surface_Water,Winter,2014,115210.4
 New Vally,Groundwater,Winter,2014,289129
 Marsa Matrouh,Groundwater,Winter,2014,76686
 North Sinai,Groundwater,Winter,2014,4244
-South sinai,Groundwater,Winter,2014,1926
+South Sinai,Groundwater,Winter,2014,1926
 Giza,Groundwater,Winter,2014,24794
 Luxor,Surface_Water,Winter,2015,88510
 Fayoum,Surface_Water,Winter,2015,881040
@@ -132,7 +132,7 @@ Alexandria,Surface_Water,Winter,2015,111669
 New Vally,Groundwater,Winter,2015,307083
 Marsa Matrouh,Groundwater,Winter,2015,247756
 North Sinai,Groundwater,Winter,2015,10954
-South sinai,Groundwater,Winter,2015,2664
+South Sinai,Groundwater,Winter,2015,2664
 Giza,Groundwater,Winter,2015,60801
 Luxor,Surface_Water,Winter,2016,125366
 Fayoum,Surface_Water,Winter,2016,1143603
@@ -159,7 +159,7 @@ Alexandria,Surface_Water,Winter,2016,111152
 New Vally,Groundwater,Winter,2016,305342
 Marsa Matrouh,Groundwater,Winter,2016,261478
 North Sinai,Groundwater,Winter,2016,19055
-South sinai,Groundwater,Winter,2016,2361
+South Sinai,Groundwater,Winter,2016,2361
 Giza,Groundwater,Winter,2016,44056
 Luxor,Surface_Water,Winter,2017,68116
 Fayoum,Surface_Water,Winter,2017,909998
@@ -186,7 +186,7 @@ Alexandria,Surface_Water,Winter,2017,121610
 New Vally,Groundwater,Winter,2017,321843
 Marsa Matrouh,Groundwater,Winter,2017,166043
 North Sinai,Groundwater,Winter,2017,1033
-South sinai,Groundwater,Winter,2017,2812
+South Sinai,Groundwater,Winter,2017,2812
 Giza,Groundwater,Winter,2017,18956
 Luxor,Surface_Water,Winter,2018,82979
 Fayoum,Surface_Water,Winter,2018,807134
@@ -213,7 +213,7 @@ Alexandria,Surface_Water,Winter,2018,118183
 New Vally,Groundwater,Winter,2018,356731
 Marsa Matrouh,Groundwater,Winter,2018,87493
 North Sinai,Groundwater,Winter,2018,1852
-South sinai,Groundwater,Winter,2018,2811
+South Sinai,Groundwater,Winter,2018,2811
 Giza,Groundwater,Winter,2018,18886
 Luxor,Surface_Water,Winter,2019,90449
 Fayoum,Surface_Water,Winter,2019,880280
@@ -240,7 +240,7 @@ Alexandria,Surface_Water,Winter,2019,154059
 New Vally,Groundwater,Winter,2019,352400
 Marsa Matrouh,Groundwater,Winter,2019,217072
 North Sinai,Groundwater,Winter,2019,4140
-South sinai,Groundwater,Winter,2019,890
+South Sinai,Groundwater,Winter,2019,890
 Giza,Groundwater,Winter,2019,13876
 Luxor,Surface_Water,Winter,2020,84736
 Fayoum,Surface_Water,Winter,2020,828328
@@ -267,7 +267,7 @@ Alexandria,Surface_Water,Winter,2020,145192
 New Vally,Groundwater,Winter,2020,439883
 Marsa Matrouh,Groundwater,Winter,2020,48404
 North Sinai,Groundwater,Winter,2020,479
-South sinai,Groundwater,Winter,2020,584
+South Sinai,Groundwater,Winter,2020,584
 Giza,Groundwater,Winter,2020,15209
 Luxor,Surface_Water,Winter,2021,92125
 Fayoum,Surface_Water,Winter,2021,881702
@@ -294,7 +294,7 @@ Alexandria,Surface_Water,Winter,2021,127200
 New Vally,Groundwater,Winter,2021,530381
 Marsa Matrouh,Groundwater,Winter,2021,47605
 North Sinai,Groundwater,Winter,2021,653
-South sinai,Groundwater,Winter,2021,620
+South Sinai,Groundwater,Winter,2021,620
 Giza,Groundwater,Winter,2021,20395
 Luxor,Surface_Water,Winter,2022,72402
 Fayoum,Surface_Water,Winter,2022,780437
@@ -321,7 +321,7 @@ Alexandria,Surface_Water,Winter,2022,93537
 New Vally,Groundwater,Winter,2022,530381
 Marsa Matrouh,Groundwater,Winter,2022,50095
 North Sinai,Groundwater,Winter,2022,1058
-South sinai,Groundwater,Winter,2022,1686
+South Sinai,Groundwater,Winter,2022,1686
 Giza,Groundwater,Winter,2022,101629
 Luxor,Surface_Water,Winter,2023,80195
 Fayoum,Surface_Water,Winter,2023,932638
@@ -348,7 +348,7 @@ Alexandria,Surface_Water,Winter,2023,86932
 New Vally,Groundwater,Winter,2023,582495
 Marsa Matrouh,Groundwater,Winter,2023,93831
 North Sinai,Groundwater,Winter,2023,927
-South sinai,Groundwater,Winter,2023,2703
+South Sinai,Groundwater,Winter,2023,2703
 Giza,Groundwater,Winter,2023,126075
 Luxor,Surface_Water,Summer,2011,612364
 Fayoum,Surface_Water,Summer,2011,800112
@@ -375,7 +375,7 @@ Alexandria,Surface_Water,Summer,2011,53407
 New Vally,Groundwater,Summer,2011,83921
 Marsa Matrouh,Groundwater,Summer,2011,19034
 North Sinai,Groundwater,Summer,2011,1175
-South sinai,Groundwater,Summer,2011,51
+South Sinai,Groundwater,Summer,2011,51
 Giza,Groundwater,Summer,2011,3307
 Luxor,Surface_Water,Summer,2012,686954
 Fayoum,Surface_Water,Summer,2012,908835
@@ -402,7 +402,7 @@ Alexandria,Surface_Water,Summer,2012,168946
 New Vally,Groundwater,Summer,2012,92866
 Marsa Matrouh,Groundwater,Summer,2012,27675
 North Sinai,Groundwater,Summer,2012,3278
-South sinai,Groundwater,Summer,2012,75
+South Sinai,Groundwater,Summer,2012,75
 Giza,Groundwater,Summer,2012,1215
 Luxor,Surface_Water,Summer,2013,731634
 Fayoum,Surface_Water,Summer,2013,959246
@@ -429,7 +429,7 @@ Alexandria,Surface_Water,Summer,2013,172616
 New Vally,Groundwater,Summer,2013,81978
 Marsa Matrouh,Groundwater,Summer,2013,98
 North Sinai,Groundwater,Summer,2013,2390
-South sinai,Groundwater,Summer,2013,129
+South Sinai,Groundwater,Summer,2013,129
 Giza,Groundwater,Summer,2013,14097
 Luxor,Surface_Water,Summer,2014,751825
 Fayoum,Surface_Water,Summer,2014,1055370
@@ -456,7 +456,7 @@ Alexandria,Surface_Water,Summer,2014,164368
 New Vally,Groundwater,Summer,2014,98398
 Marsa Matrouh,Groundwater,Summer,2014,71115
 North Sinai,Groundwater,Summer,2014,2277
-South sinai,Groundwater,Summer,2014,429
+South Sinai,Groundwater,Summer,2014,429
 Giza,Groundwater,Summer,2014,18016
 Luxor,Surface_Water,Summer,2015,819980
 Fayoum,Surface_Water,Summer,2015,922415
@@ -483,7 +483,7 @@ Alexandria,Surface_Water,Summer,2015,150682
 New Vally,Groundwater,Summer,2015,90426
 Marsa Matrouh,Groundwater,Summer,2015,46373
 North Sinai,Groundwater,Summer,2015,2932
-South sinai,Groundwater,Summer,2015,239
+South Sinai,Groundwater,Summer,2015,239
 Giza,Groundwater,Summer,2015,19206
 Luxor,Surface_Water,Summer,2016,844814
 Fayoum,Surface_Water,Summer,2016,1311843
@@ -510,7 +510,7 @@ Alexandria,Surface_Water,Summer,2016,183280
 New Vally,Groundwater,Summer,2016,122768
 Marsa Matrouh,Groundwater,Summer,2016,67044
 North Sinai,Groundwater,Summer,2016,203
-South sinai,Groundwater,Summer,2016,109
+South Sinai,Groundwater,Summer,2016,109
 Giza,Groundwater,Summer,2016,13979
 Luxor,Surface_Water,Summer,2017,750785
 Fayoum,Surface_Water,Summer,2017,1407917
@@ -537,7 +537,7 @@ Alexandria,Surface_Water,Summer,2017,171606
 New Vally,Groundwater,Summer,2017,134638
 Marsa Matrouh,Groundwater,Summer,2017,43865
 North Sinai,Groundwater,Summer,2017,1029
-South sinai,Groundwater,Summer,2017,258
+South Sinai,Groundwater,Summer,2017,258
 Giza,Groundwater,Summer,2017,11227
 Luxor,Surface_Water,Summer,2018,667018
 Fayoum,Surface_Water,Summer,2018,1288561
@@ -564,7 +564,7 @@ Alexandria,Surface_Water,Summer,2018,141184
 New Vally,Groundwater,Summer,2018,125818
 Marsa Matrouh,Groundwater,Summer,2018,43086
 North Sinai,Groundwater,Summer,2018,1205
-South sinai,Groundwater,Summer,2018,255
+South Sinai,Groundwater,Summer,2018,255
 Giza,Groundwater,Summer,2018,12476
 Luxor,Surface_Water,Summer,2019,719412
 Fayoum,Surface_Water,Summer,2019,1357196
@@ -591,7 +591,7 @@ Alexandria,Surface_Water,Summer,2019,231986
 New Vally,Groundwater,Summer,2019,150020
 Marsa Matrouh,Groundwater,Summer,2019,43873
 North Sinai,Groundwater,Summer,2019,661
-South sinai,Groundwater,Summer,2019,481
+South Sinai,Groundwater,Summer,2019,481
 Giza,Groundwater,Summer,2019,20148
 Luxor,Surface_Water,Summer,2020,742572
 Fayoum,Surface_Water,Summer,2020,1321065
@@ -618,7 +618,7 @@ Alexandria,Surface_Water,Summer,2020,228317
 New Vally,Groundwater,Summer,2020,194538
 Marsa Matrouh,Groundwater,Summer,2020,45701
 North Sinai,Groundwater,Summer,2020,277
-South sinai,Groundwater,Summer,2020,482
+South Sinai,Groundwater,Summer,2020,482
 Giza,Groundwater,Summer,2020,13541
 Luxor,Surface_Water,Summer,2021,696281
 Fayoum,Surface_Water,Summer,2021,1296591
@@ -645,7 +645,7 @@ Alexandria,Surface_Water,Summer,2021,221851
 New Vally,Groundwater,Summer,2021,134377
 Marsa Matrouh,Groundwater,Summer,2021,47110
 North Sinai,Groundwater,Summer,2021,716
-South sinai,Groundwater,Summer,2021,1204
+South Sinai,Groundwater,Summer,2021,1204
 Giza,Groundwater,Summer,2021,13226
 Luxor,Surface_Water,Summer,2022,649132
 Fayoum,Surface_Water,Summer,2022,1303980
@@ -672,7 +672,7 @@ Alexandria,Surface_Water,Summer,2022,128159
 New Vally,Groundwater,Summer,2022,181191
 Marsa Matrouh,Groundwater,Summer,2022,54713
 North Sinai,Groundwater,Summer,2022,622
-South sinai,Groundwater,Summer,2022,1069
+South Sinai,Groundwater,Summer,2022,1069
 Giza,Groundwater,Summer,2022,102581
 Luxor,Surface_Water,Summer,2023,713152
 Fayoum,Surface_Water,Summer,2023,1262727
@@ -699,7 +699,7 @@ Alexandria,Surface_Water,Summer,2023,131650
 New Vally,Groundwater,Summer,2023,270705
 Marsa Matrouh,Groundwater,Summer,2023,59439
 North Sinai,Groundwater,Summer,2023,1110
-South sinai,Groundwater,Summer,2023,1932
+South Sinai,Groundwater,Summer,2023,1932
 Giza,Groundwater,Summer,2023,102261
 Luxor,Surface_Water,Nile season,2011,48161
 Fayoum,Surface_Water,Nile season,2011,205024
@@ -726,7 +726,7 @@ Alexandria,Surface_Water,Nile season,2011,9782
 New Vally,Groundwater,Nile season,2011,513
 Marsa Matrouh,Groundwater,Nile season,2011,N/A
 North Sinai,Groundwater,Nile season,2011,18
-South sinai,Groundwater,Nile season,2011,0
+South Sinai,Groundwater,Nile season,2011,0
 Giza,Groundwater,Nile season,2011,17
 Luxor,Surface_Water,Nile season,2012,N/A
 Fayoum,Surface_Water,Nile season,2012,12
@@ -753,7 +753,7 @@ Alexandria,Surface_Water,Nile season,2012,36446
 New Vally,Groundwater,Nile season,2012,591
 Marsa Matrouh,Groundwater,Nile season,2012,N/A
 North Sinai,Groundwater,Nile season,2012,12
-South sinai,Groundwater,Nile season,2012,0
+South Sinai,Groundwater,Nile season,2012,0
 Giza,Groundwater,Nile season,2012,9
 Luxor,Surface_Water,Nile season,2013,44434
 Fayoum,Surface_Water,Nile season,2013,203634
@@ -780,7 +780,7 @@ Alexandria,Surface_Water,Nile season,2013,35553
 New Vally,Groundwater,Nile season,2013,732
 Marsa Matrouh,Groundwater,Nile season,2013,N/A
 North Sinai,Groundwater,Nile season,2013,16
-South sinai,Groundwater,Nile season,2013,0
+South Sinai,Groundwater,Nile season,2013,0
 Giza,Groundwater,Nile season,2013,209
 Luxor,Surface_Water,Nile season,2014,26429
 Fayoum,Surface_Water,Nile season,2014,175549
@@ -807,7 +807,7 @@ Alexandria,Surface_Water,Nile season,2014,37691
 New Vally,Groundwater,Nile season,2014,848
 Marsa Matrouh,Groundwater,Nile season,2014,N/A
 North Sinai,Groundwater,Nile season,2014,19
-South sinai,Groundwater,Nile season,2014,0
+South Sinai,Groundwater,Nile season,2014,0
 Giza,Groundwater,Nile season,2014,71
 Luxor,Surface_Water,Nile season,2015,20775
 Fayoum,Surface_Water,Nile season,2015,165183
@@ -834,7 +834,7 @@ Alexandria,Surface_Water,Nile season,2015,36031
 New Vally,Groundwater,Nile season,2015,793
 Marsa Matrouh,Groundwater,Nile season,2015,N/A
 North Sinai,Groundwater,Nile season,2015,10
-South sinai,Groundwater,Nile season,2015,0
+South Sinai,Groundwater,Nile season,2015,0
 Giza,Groundwater,Nile season,2015,111
 Luxor,Surface_Water,Nile season,2016,33970
 Fayoum,Surface_Water,Nile season,2016,182784
@@ -861,7 +861,7 @@ Alexandria,Surface_Water,Nile season,2016,21569
 New Vally,Groundwater,Nile season,2016,830
 Marsa Matrouh,Groundwater,Nile season,2016,N/A
 North Sinai,Groundwater,Nile season,2016,6
-South sinai,Groundwater,Nile season,2016,0
+South Sinai,Groundwater,Nile season,2016,0
 Giza,Groundwater,Nile season,2016,219
 Luxor,Surface_Water,Nile season,2017,27112
 Fayoum,Surface_Water,Nile season,2017,152681
@@ -888,7 +888,7 @@ Alexandria,Surface_Water,Nile season,2017,22168
 New Vally,Groundwater,Nile season,2017,1094
 Marsa Matrouh,Groundwater,Nile season,2017,N/A
 North Sinai,Groundwater,Nile season,2017,4
-South sinai,Groundwater,Nile season,2017,0
+South Sinai,Groundwater,Nile season,2017,0
 Giza,Groundwater,Nile season,2017,175
 Luxor,Surface_Water,Nile season,2018,22593
 Fayoum,Surface_Water,Nile season,2018,119065
@@ -915,7 +915,7 @@ Alexandria,Surface_Water,Nile season,2018,2858
 New Vally,Groundwater,Nile season,2018,950
 Marsa Matrouh,Groundwater,Nile season,2018,N/A
 North Sinai,Groundwater,Nile season,2018,5
-South sinai,Groundwater,Nile season,2018,0
+South Sinai,Groundwater,Nile season,2018,0
 Giza,Groundwater,Nile season,2018,18
 Luxor,Surface_Water,Nile season,2019,14648
 Fayoum,Surface_Water,Nile season,2019,39432
@@ -942,7 +942,7 @@ Alexandria,Surface_Water,Nile season,2019,12576
 New Vally,Groundwater,Nile season,2019,383
 Marsa Matrouh,Groundwater,Nile season,2019,N/A
 North Sinai,Groundwater,Nile season,2019,3
-South sinai,Groundwater,Nile season,2019,0
+South Sinai,Groundwater,Nile season,2019,0
 Giza,Groundwater,Nile season,2019,443
 Luxor,Surface_Water,Nile season,2020,11930
 Fayoum,Surface_Water,Nile season,2020,56184
@@ -969,7 +969,7 @@ Alexandria,Surface_Water,Nile season,2020,4565
 New Vally,Groundwater,Nile season,2020,744
 Marsa Matrouh,Groundwater,Nile season,2020,N/A
 North Sinai,Groundwater,Nile season,2020,5
-South sinai,Groundwater,Nile season,2020,0
+South Sinai,Groundwater,Nile season,2020,0
 Giza,Groundwater,Nile season,2020,111
 Luxor,Surface_Water,Nile season,2021,7335
 Fayoum,Surface_Water,Nile season,2021,21723
@@ -996,7 +996,7 @@ Alexandria,Surface_Water,Nile season,2021,8611
 New Vally,Groundwater,Nile season,2021,1091
 Marsa Matrouh,Groundwater,Nile season,2021,N/A
 North Sinai,Groundwater,Nile season,2021,2
-South sinai,Groundwater,Nile season,2021,0
+South Sinai,Groundwater,Nile season,2021,0
 Giza,Groundwater,Nile season,2021,31
 Luxor,Surface_Water,Nile season,2022,6748
 Fayoum,Surface_Water,Nile season,2022,8739
@@ -1023,7 +1023,7 @@ Alexandria,Surface_Water,Nile season,2022,3687
 New Vally,Groundwater,Nile season,2022,238
 Marsa Matrouh,Groundwater,Nile season,2022,4
 North Sinai,Groundwater,Nile season,2022,2
-South sinai,Groundwater,Nile season,2022,0
+South Sinai,Groundwater,Nile season,2022,0
 Giza,Groundwater,Nile season,2022,65
 Luxor,Surface_Water,Nile season,2023,2451
 Fayoum,Surface_Water,Nile season,2023,7439
@@ -1050,7 +1050,7 @@ Alexandria,Surface_Water,Nile season,2023,0
 New Vally,Groundwater,Nile season,2023,228
 Marsa Matrouh,Groundwater,Nile season,2023,5
 North Sinai,Groundwater,Nile season,2023,2
-South sinai,Groundwater,Nile season,2023,0
+South Sinai,Groundwater,Nile season,2023,0
 Giza,Groundwater,Nile season,2023,62
 Luxor,Surface_Water,Perennial,2011,55850
 Fayoum,Surface_Water,Perennial,2011,81708
@@ -1077,7 +1077,7 @@ Alexandria,Surface_Water,Perennial,2011,25279
 New Vally,Groundwater,Perennial,2011,6440
 Marsa Matrouh,Groundwater,Perennial,2011,97270
 North Sinai,Groundwater,Perennial,2011,26866
-South sinai,Groundwater,Perennial,2011,419450
+South Sinai,Groundwater,Perennial,2011,419450
 Giza,Groundwater,Perennial,2011,1988
 Luxor,Surface_Water,Perennial,2012,29420
 Fayoum,Surface_Water,Perennial,2012,142286
@@ -1104,7 +1104,7 @@ Alexandria,Surface_Water,Perennial,2012,65505
 New Vally,Groundwater,Perennial,2012,10384
 Marsa Matrouh,Groundwater,Perennial,2012,82317
 North Sinai,Groundwater,Perennial,2012,81203
-South sinai,Groundwater,Perennial,2012,1849093
+South Sinai,Groundwater,Perennial,2012,1849093
 Giza,Groundwater,Perennial,2012,1939
 Luxor,Surface_Water,Perennial,2013,74360
 Fayoum,Surface_Water,Perennial,2013,118334
@@ -1131,7 +1131,7 @@ Alexandria,Surface_Water,Perennial,2013,40753
 New Vally,Groundwater,Perennial,2013,11132
 Marsa Matrouh,Groundwater,Perennial,2013,12244
 North Sinai,Groundwater,Perennial,2013,86475
-South sinai,Groundwater,Perennial,2013,1009016
+South Sinai,Groundwater,Perennial,2013,1009016
 Giza,Groundwater,Perennial,2013,13092
 Luxor,Surface_Water,Perennial,2014,13092
 Fayoum,Surface_Water,Perennial,2014,116624
@@ -1158,7 +1158,7 @@ Alexandria,Surface_Water,Perennial,2014,37365
 New Vally,Groundwater,Perennial,2014,N/A
 Marsa Matrouh,Groundwater,Perennial,2014,N/A
 North Sinai,Groundwater,Perennial,2014,N/A
-South sinai,Groundwater,Perennial,2014,N/A
+South Sinai,Groundwater,Perennial,2014,N/A
 Giza,Groundwater,Perennial,2014,N/A
 Luxor,Surface_Water,Perennial,2015,76017
 Fayoum,Surface_Water,Perennial,2015,120116
@@ -1185,7 +1185,7 @@ Alexandria,Surface_Water,Perennial,2015,40042
 New Vally,Groundwater,Perennial,2015,11674
 Marsa Matrouh,Groundwater,Perennial,2015,123103
 North Sinai,Groundwater,Perennial,2015,82016
-South sinai,Groundwater,Perennial,2015,1164969
+South Sinai,Groundwater,Perennial,2015,1164969
 Giza,Groundwater,Perennial,2015,27644
 Luxor,Surface_Water,Perennial,2016,100738
 Fayoum,Surface_Water,Perennial,2016,166841
@@ -1212,7 +1212,7 @@ Alexandria,Surface_Water,Perennial,2016,42472
 New Vally,Groundwater,Perennial,2016,13092
 Marsa Matrouh,Groundwater,Perennial,2016,123104
 North Sinai,Groundwater,Perennial,2016,80660
-South sinai,Groundwater,Perennial,2016,1285216
+South Sinai,Groundwater,Perennial,2016,1285216
 Giza,Groundwater,Perennial,2016,27381
 Luxor,Surface_Water,Perennial,2017,46157
 Fayoum,Surface_Water,Perennial,2017,162378
@@ -1239,7 +1239,7 @@ Alexandria,Surface_Water,Perennial,2017,44313
 New Vally,Groundwater,Perennial,2017,16450
 Marsa Matrouh,Groundwater,Perennial,2017,125978
 North Sinai,Groundwater,Perennial,2017,55454
-South sinai,Groundwater,Perennial,2017,15291
+South Sinai,Groundwater,Perennial,2017,15291
 Giza,Groundwater,Perennial,2017,19213
 Luxor,Surface_Water,Perennial,2018,84052
 Fayoum,Surface_Water,Perennial,2018,150341
@@ -1266,7 +1266,7 @@ Alexandria,Surface_Water,Perennial,2018,37176
 New Vally,Groundwater,Perennial,2018,16445
 Marsa Matrouh,Groundwater,Perennial,2018,127993
 North Sinai,Groundwater,Perennial,2018,38425
-South sinai,Groundwater,Perennial,2018,17207
+South Sinai,Groundwater,Perennial,2018,17207
 Giza,Groundwater,Perennial,2018,18350
 Luxor,Surface_Water,Perennial,2019,84208
 Fayoum,Surface_Water,Perennial,2019,151697
@@ -1293,7 +1293,7 @@ Alexandria,Surface_Water,Perennial,2019,46613
 New Vally,Groundwater,Perennial,2019,15172
 Marsa Matrouh,Groundwater,Perennial,2019,134869
 North Sinai,Groundwater,Perennial,2019,18181
-South sinai,Groundwater,Perennial,2019,20407
+South Sinai,Groundwater,Perennial,2019,20407
 Giza,Groundwater,Perennial,2019,21751
 Luxor,Surface_Water,Perennial,2020,177404
 Fayoum,Surface_Water,Perennial,2020,173783
@@ -1320,7 +1320,7 @@ Alexandria,Surface_Water,Perennial,2020,47159
 New Vally,Groundwater,Perennial,2020,28663
 Marsa Matrouh,Groundwater,Perennial,2020,136131
 North Sinai,Groundwater,Perennial,2020,25551
-South sinai,Groundwater,Perennial,2020,21826
+South Sinai,Groundwater,Perennial,2020,21826
 Giza,Groundwater,Perennial,2020,11585
 Luxor,Surface_Water,Perennial,2021,74959
 Fayoum,Surface_Water,Perennial,2021,141284
@@ -1347,7 +1347,7 @@ Alexandria,Surface_Water,Perennial,2021,39202
 New Vally,Groundwater,Perennial,2021,28661
 Marsa Matrouh,Groundwater,Perennial,2021,143075
 North Sinai,Groundwater,Perennial,2021,19019
-South sinai,Groundwater,Perennial,2021,35298
+South Sinai,Groundwater,Perennial,2021,35298
 Giza,Groundwater,Perennial,2021,11585
 Luxor,Surface_Water,Perennial,2022,74967
 Fayoum,Surface_Water,Perennial,2022,141491
@@ -1374,7 +1374,7 @@ Alexandria,Surface_Water,Perennial,2022,40488
 New Vally,Groundwater,Perennial,2022,28662
 Marsa Matrouh,Groundwater,Perennial,2022,148995
 North Sinai,Groundwater,Perennial,2022,23991
-South sinai,Groundwater,Perennial,2022,35298
+South Sinai,Groundwater,Perennial,2022,35298
 Giza,Groundwater,Perennial,2022,23026
 Luxor,Surface_Water,Perennial,2023,75347
 Fayoum,Surface_Water,Perennial,2023,134133
@@ -1401,5 +1401,5 @@ Alexandria,Surface_Water,Perennial,2023,40119
 New Vally,Groundwater,Perennial,2023,36417
 Marsa Matrouh,Groundwater,Perennial,2023,160069
 North Sinai,Groundwater,Perennial,2023,20331
-South sinai,Groundwater,Perennial,2023,30481
+South Sinai,Groundwater,Perennial,2023,30481
 Giza,Groundwater,Perennial,2023,23026

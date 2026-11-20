@@ -1,0 +1,659 @@
+﻿crop,year,avg_per_capita
+Oranges,2010,12.3
+Oranges,2011,11.7
+Oranges,2012,13.2
+Oranges,2013,11.5
+Oranges,2014,14.5
+Oranges,2015,13.3
+Oranges,2016,9.8
+Oranges,2017,10.4
+Oranges,2018,8.5
+Oranges,2019,6.3
+Oranges,2020,9.2
+Oranges,2021,8.1
+Oranges,2022,9.0
+Oranges,2023,8.9
+Mandarin,2010,5.8
+Mandarin,2011,6.1
+Mandarin,2012,6.2
+Mandarin,2013,5.6
+Mandarin,2014,5.8
+Mandarin,2015,5.4
+Mandarin,2016,5.5
+Mandarin,2017,4.1
+Mandarin,2018,4.1
+Mandarin,2019,3.8
+Mandarin,2020,3.9
+Mandarin,2021,4.1
+Mandarin,2022,5.8
+Mandarin,2023,6.4
+Lemon,2010,2.0
+Lemon,2011,1.9
+Lemon,2012,1.9
+Lemon,2013,1.6
+Lemon,2014,1.9
+Lemon,2015,2.2
+Lemon,2016,2.0
+Lemon,2017,1.8
+Lemon,2018,1.7
+Lemon,2019,1.2
+Lemon,2020,1.3
+Lemon,2021,1.2
+Lemon,2022,1.4
+Lemon,2023,1.1
+Potatoes,2010,27.0
+Potatoes,2011,29.9
+Potatoes,2012,32.5
+Potatoes,2013,29.5
+Potatoes,2014,27.3
+Potatoes,2015,29.3
+Potatoes,2016,24.9
+Potatoes,2017,25.4
+Potatoes,2018,25.9
+Potatoes,2019,26.2
+Potatoes,2020,38.3
+Potatoes,2021,34.6
+Potatoes,2022,37.1
+Potatoes,2023,45.3
+Sweet Potatoes,2010,2.7
+Sweet Potatoes,2011,1.9
+Sweet Potatoes,2012,2.4
+Sweet Potatoes,2013,2.4
+Sweet Potatoes,2014,2.3
+Sweet Potatoes,2015,2.7
+Sweet Potatoes,2016,2.9
+Sweet Potatoes,2017,2.0
+Sweet Potatoes,2018,2.8
+Sweet Potatoes,2019,2.2
+Sweet Potatoes,2020,2.6
+Sweet Potatoes,2021,1.8
+Sweet Potatoes,2022,0.7
+Sweet Potatoes,2023,0.9
+Sugar Beet,2010,0.0
+Sugar Beet,2011,0.0
+Sugar Beet,2012,0.0
+Sugar Beet,2013,0.0
+Sugar Beet,2014,0.0
+Sugar Beet,2015,0.0
+Sugar Beet,2016,0.0
+Sugar Beet,2017,0.0
+Sugar Beet,2018,0.0
+Sugar Beet,2019,0.0
+Sugar Beet,2020,0.0
+Sugar Beet,2021,0.0
+Sugar Beet,2022,0.0
+Sugar Beet,2023,0.0
+Sugar Cane,2010,8.4
+Sugar Cane,2011,8.3
+Sugar Cane,2012,7.2
+Sugar Cane,2013,7.2
+Sugar Cane,2014,6.9
+Sugar Cane,2015,5.8
+Sugar Cane,2016,5.6
+Sugar Cane,2017,5.1
+Sugar Cane,2018,5.3
+Sugar Cane,2019,5.8
+Sugar Cane,2020,5.5
+Sugar Cane,2021,5.6
+Sugar Cane,2022,6.7
+Sugar Cane,2023,6.9
+Sunflower,2010,0.0
+Sunflower,2011,0.0
+Sunflower,2012,0.0
+Sunflower,2013,0.0
+Sunflower,2014,0.1
+Sunflower,2015,0.2
+Sunflower,2016,0.2
+Sunflower,2017,0.2
+Sunflower,2018,0.2
+Sunflower,2019,0.3
+Sunflower,2020,0.2
+Sunflower,2021,0.1
+Sunflower,2022,0.1
+Sunflower,2023,0.2
+Sesame,2010,0.8
+Sesame,2011,0.8
+Sesame,2012,0.8
+Sesame,2013,0.6
+Sesame,2014,0.6
+Sesame,2015,0.5
+Sesame,2016,0.7
+Sesame,2017,0.6
+Sesame,2018,0.4
+Sesame,2019,0.7
+Sesame,2020,1.0
+Sesame,2021,0.7
+Sesame,2022,0.5
+Sesame,2023,0.5
+Peanuts,2010,1.5
+Peanuts,2011,18.5
+Peanuts,2012,1.6
+Peanuts,2013,1.4
+Peanuts,2014,1.4
+Peanuts,2015,1.1
+Peanuts,2016,0.9
+Peanuts,2017,0.7
+Peanuts,2018,1.3
+Peanuts,2019,1.1
+Peanuts,2020,1.1
+Peanuts,2021,1.0
+Peanuts,2022,0.9
+Peanuts,2023,1.0
+Soybean,2010,0.0
+Soybean,2011,0.0
+Soybean,2012,0.5
+Soybean,2013,0.6
+Soybean,2014,0.2
+Soybean,2015,0.1
+Soybean,2016,0.5
+Soybean,2017,0.3
+Soybean,2018,0.7
+Soybean,2019,1.0
+Soybean,2020,1.0
+Soybean,2021,0.9
+Soybean,2022,1.0
+Soybean,2023,2.2
+Apple,2010,6.3
+Apple,2011,6.4
+Apple,2012,7.1
+Apple,2013,10.9
+Apple,2014,7.7
+Apple,2015,8.8
+Apple,2016,8.2
+Apple,2017,7.5
+Apple,2018,8.2
+Apple,2019,8.1
+Apple,2020,7.6
+Apple,2021,9.3
+Apple,2022,7.8
+Apple,2023,8.6
+Apricot,2010,0.9
+Apricot,2011,1.0
+Apricot,2012,1.0
+Apricot,2013,0.9
+Apricot,2014,0.8
+Apricot,2015,0.8
+Apricot,2016,0.7
+Apricot,2017,0.7
+Apricot,2018,0.7
+Apricot,2019,0.7
+Apricot,2020,0.6
+Apricot,2021,0.5
+Apricot,2022,0.6
+Apricot,2023,0.6
+Grapes,2010,11.2
+Grapes,2011,7.0
+Grapes,2012,11.9
+Grapes,2013,8.9
+Grapes,2014,11.5
+Grapes,2015,13.8
+Grapes,2016,13.8
+Grapes,2017,13.0
+Grapes,2018,10.7
+Grapes,2019,11.9
+Grapes,2020,7.6
+Grapes,2021,9.9
+Grapes,2022,13.3
+Grapes,2023,12.3
+Guava,2010,3.2
+Guava,2011,3.2
+Guava,2012,3.3
+Guava,2013,2.7
+Guava,2014,2.6
+Guava,2015,2.8
+Guava,2016,2.9
+Guava,2017,2.6
+Guava,2018,2.7
+Guava,2019,2.4
+Guava,2020,2.7
+Guava,2021,2.8
+Guava,2022,2.7
+Guava,2023,2.7
+Olive,2010,3.8
+Olive,2011,4.3
+Olive,2012,5.2
+Olive,2013,4.3
+Olive,2014,4.3
+Olive,2015,5.1
+Olive,2016,6.3
+Olive,2017,7.4
+Olive,2018,7.3
+Olive,2019,6.6
+Olive,2020,6.4
+Olive,2021,6.9
+Olive,2022,4.7
+Olive,2023,6.3
+Palm Trees,2010,12.3
+Palm Trees,2011,12.3
+Palm Trees,2012,12.3
+Palm Trees,2013,9.4
+Palm Trees,2014,10.7
+Palm Trees,2015,11.7
+Palm Trees,2016,10.3
+Palm Trees,2017,10.0
+Palm Trees,2018,9.8
+Palm Trees,2019,10.1
+Palm Trees,2020,11.1
+Palm Trees,2021,11.2
+Palm Trees,2022,11.3
+Palm Trees,2023,9.5
+Pear,2010,0.5
+Pear,2011,0.5
+Pear,2012,0.7
+Pear,2013,0.6
+Pear,2014,0.6
+Pear,2015,0.6
+Pear,2016,0.6
+Pear,2017,0.7
+Pear,2018,0.7
+Pear,2019,0.6
+Pear,2020,0.7
+Pear,2021,0.7
+Pear,2022,0.7
+Pear,2023,0.8
+Pomegranate,2010,0.4
+Pomegranate,2011,0.5
+Pomegranate,2012,0.6
+Pomegranate,2013,1.0
+Pomegranate,2014,1.3
+Pomegranate,2015,2.1
+Pomegranate,2016,2.5
+Pomegranate,2017,3.3
+Pomegranate,2018,5.0
+Pomegranate,2019,4.1
+Pomegranate,2020,4.5
+Pomegranate,2021,3.4
+Pomegranate,2022,7.0
+Pomegranate,2023,5.9
+Peaches,2010,2.9
+Peaches,2011,3.4
+Peaches,2012,2.9
+Peaches,2013,2.7
+Peaches,2014,2.9
+Peaches,2015,2.7
+Peaches,2016,3.0
+Peaches,2017,3.6
+Peaches,2018,3.3
+Peaches,2019,2.9
+Peaches,2020,2.2
+Peaches,2021,2.3
+Peaches,2022,2.0
+Peaches,2023,1.8
+Mango,2010,3.5
+Mango,2011,4.1
+Mango,2012,5.2
+Mango,2013,4.0
+Mango,2014,4.8
+Mango,2015,4.4
+Mango,2016,4.7
+Mango,2017,4.8
+Mango,2018,4.9
+Mango,2019,4.8
+Mango,2020,5.2
+Mango,2021,3.3
+Mango,2022,5.9
+Mango,2023,6.4
+Bananas,2010,7.4
+Bananas,2011,7.5
+Bananas,2012,8.0
+Bananas,2013,7.9
+Bananas,2014,8.3
+Bananas,2015,8.5
+Bananas,2016,7.7
+Bananas,2017,7.4
+Bananas,2018,7.3
+Bananas,2019,7.5
+Bananas,2020,7.3
+Bananas,2021,6.4
+Bananas,2022,7.3
+Bananas,2023,8.0
+Figs,2010,2.0
+Figs,2011,1.8
+Figs,2012,1.8
+Figs,2013,1.8
+Figs,2014,1.7
+Figs,2015,1.6
+Figs,2016,1.6
+Figs,2017,1.7
+Figs,2018,1.8
+Figs,2019,1.8
+Figs,2020,2.4
+Figs,2021,1.7
+Figs,2022,1.6
+Figs,2023,1.7
+Strawberry,2010,0.0
+Strawberry,2011,0.0
+Strawberry,2012,1.5
+Strawberry,2013,0.8
+Strawberry,2014,0.9
+Strawberry,2015,2.4
+Strawberry,2016,1.8
+Strawberry,2017,1.3
+Strawberry,2018,2.8
+Strawberry,2019,2.3
+Strawberry,2020,1.7
+Strawberry,2021,1.8
+Strawberry,2022,1.4
+Strawberry,2023,2.7
+Tomato,2010,75.7
+Tomato,2011,69.8
+Tomato,2012,67.9
+Tomato,2013,67.3
+Tomato,2014,61.7
+Tomato,2015,56.1
+Tomato,2016,51.7
+Tomato,2017,45.5
+Tomato,2018,44.8
+Tomato,2019,43.9
+Tomato,2020,42.1
+Tomato,2021,40.2
+Tomato,2022,40.0
+Tomato,2023,47.4
+Eggplant,2010,11.9
+Eggplant,2011,11.1
+Eggplant,2012,11.0
+Eggplant,2013,11.2
+Eggplant,2014,10.8
+Eggplant,2015,9.0
+Eggplant,2016,9.5
+Eggplant,2017,9.6
+Eggplant,2018,7.9
+Eggplant,2019,9.2
+Eggplant,2020,8.6
+Eggplant,2021,9.4
+Eggplant,2022,12.6
+Eggplant,2023,11.4
+Pepper,2010,6.3
+Pepper,2011,5.8
+Pepper,2012,6.4
+Pepper,2013,5.0
+Pepper,2014,5.3
+Pepper,2015,5.3
+Pepper,2016,5.5
+Pepper,2017,5.6
+Pepper,2018,5.7
+Pepper,2019,6.1
+Pepper,2020,5.5
+Pepper,2021,4.5
+Pepper,2022,7.1
+Pepper,2023,5.7
+Cabbage,2010,6.6
+Cabbage,2011,5.8
+Cabbage,2012,5.8
+Cabbage,2013,4.9
+Cabbage,2014,4.3
+Cabbage,2015,4.2
+Cabbage,2016,3.8
+Cabbage,2017,3.4
+Cabbage,2018,3.1
+Cabbage,2019,3.6
+Cabbage,2020,3.1
+Cabbage,2021,3.1
+Cabbage,2022,3.1
+Cabbage,2023,3.5
+Okra,2010,0.8
+Okra,2011,0.8
+Okra,2012,0.9
+Okra,2013,0.7
+Okra,2014,0.4
+Okra,2015,0.4
+Okra,2016,0.4
+Okra,2017,0.3
+Okra,2018,0.6
+Okra,2019,0.4
+Okra,2020,0.6
+Okra,2021,0.6
+Okra,2022,0.2
+Okra,2023,0.3
+Cauliflower,2010,1.1
+Cauliflower,2011,1.9
+Cauliflower,2012,1.6
+Cauliflower,2013,1.2
+Cauliflower,2014,1.3
+Cauliflower,2015,1.3
+Cauliflower,2016,0.7
+Cauliflower,2017,0.7
+Cauliflower,2018,0.6
+Cauliflower,2019,0.7
+Cauliflower,2020,0.7
+Cauliflower,2021,0.6
+Cauliflower,2022,0.6
+Cauliflower,2023,1.0
+Green Beans,2010,2.3
+Green Beans,2011,2.3
+Green Beans,2012,2.1
+Green Beans,2013,1.6
+Green Beans,2014,1.6
+Green Beans,2015,1.6
+Green Beans,2016,1.1
+Green Beans,2017,0.9
+Green Beans,2018,0.9
+Green Beans,2019,1.0
+Green Beans,2020,0.9
+Green Beans,2021,0.8
+Green Beans,2022,0.7
+Green Beans,2023,0.7
+Green Peas,2010,1.3
+Green Peas,2011,1.3
+Green Peas,2012,1.0
+Green Peas,2013,0.6
+Green Peas,2014,0.6
+Green Peas,2015,0.6
+Green Peas,2016,0.6
+Green Peas,2017,0.6
+Green Peas,2018,0.5
+Green Peas,2019,0.5
+Green Peas,2020,0.5
+Green Peas,2021,0.6
+Green Peas,2022,0.4
+Green Peas,2023,0.6
+Cucumber,2010,7.3
+Cucumber,2011,6.0
+Cucumber,2012,7.8
+Cucumber,2013,5.9
+Cucumber,2014,5.4
+Cucumber,2015,5.2
+Cucumber,2016,4.9
+Cucumber,2017,4.2
+Cucumber,2018,3.7
+Cucumber,2019,4.1
+Cucumber,2020,3.1
+Cucumber,2021,3.5
+Cucumber,2022,6.3
+Cucumber,2023,3.1
+Wheat,2010,160.1
+Wheat,2011,152.1
+Wheat,2012,122.5
+Wheat,2013,126.5
+Wheat,2014,133.6
+Wheat,2015,141.1
+Wheat,2016,137.8
+Wheat,2017,163.9
+Wheat,2018,155.2
+Wheat,2019,153.3
+Wheat,2020,156.1
+Wheat,2021,150.8
+Wheat,2022,140.0
+Wheat,2023,158.8
+Barley,2010,0.1
+Barley,2011,0.1
+Barley,2012,0.1
+Barley,2013,0.1
+Barley,2014,0.1
+Barley,2015,0.1
+Barley,2016,0.1
+Barley,2017,0.1
+Barley,2018,0.1
+Barley,2019,0.2
+Barley,2020,0.1
+Barley,2021,0.1
+Barley,2022,0.2
+Barley,2023,0.3
+Rice,2010,42.1
+Rice,2011,36.1
+Rice,2012,43.4
+Rice,2013,42.5
+Rice,2014,43.4
+Rice,2015,39.1
+Rice,2016,34.7
+Rice,2017,38.7
+Rice,2018,36.8
+Rice,2019,26.7
+Rice,2020,29.6
+Rice,2021,28.5
+Rice,2022,26.9
+Rice,2023,27.6
+Maize,2010,67.7
+Maize,2011,74.5
+Maize,2012,47.3
+Maize,2013,63.3
+Maize,2014,56.0
+Maize,2015,57.5
+Maize,2016,54.3
+Maize,2017,52.2
+Maize,2018,52.1
+Maize,2019,89.0
+Maize,2020,90.7
+Maize,2021,87.1
+Maize,2022,81.9
+Maize,2023,77.2
+Sorghum,2010,7.7
+Sorghum,2011,6.8
+Sorghum,2012,7.9
+Sorghum,2013,7.0
+Sorghum,2014,6.8
+Sorghum,2015,7.0
+Sorghum,2016,6.1
+Sorghum,2017,5.9
+Sorghum,2018,6.3
+Sorghum,2019,3.4
+Sorghum,2020,3.1
+Sorghum,2021,2.8
+Sorghum,2022,2.9
+Sorghum,2023,4.3
+Lupine,2010,0.0
+Lupine,2011,0.1
+Lupine,2012,0.1
+Lupine,2013,0.1
+Lupine,2014,0.3
+Lupine,2015,0.4
+Lupine,2016,0.3
+Lupine,2017,0.4
+Lupine,2018,0.4
+Lupine,2019,0.2
+Lupine,2020,0.3
+Lupine,2021,0.3
+Lupine,2022,0.2
+Lupine,2023,0.3
+Fenugreek,2010,0.2
+Fenugreek,2011,0.1
+Fenugreek,2012,0.1
+Fenugreek,2013,0.1
+Fenugreek,2014,0.1
+Fenugreek,2015,0.1
+Fenugreek,2016,0.1
+Fenugreek,2017,0.0
+Fenugreek,2018,0.0
+Fenugreek,2019,0.0
+Fenugreek,2020,0.0
+Fenugreek,2021,0.0
+Fenugreek,2022,0.0
+Fenugreek,2023,0.0
+Lentil,2010,1.4
+Lentil,2011,1.1
+Lentil,2012,0.7
+Lentil,2013,1.3
+Lentil,2014,0.8
+Lentil,2015,0.6
+Lentil,2016,0.9
+Lentil,2017,1.0
+Lentil,2018,1.5
+Lentil,2019,0.7
+Lentil,2020,1.2
+Lentil,2021,0.7
+Lentil,2022,1.1
+Lentil,2023,1.3
+Beans,2010,3.9
+Beans,2011,4.5
+Beans,2012,3.4
+Beans,2013,4.6
+Beans,2014,3.4
+Beans,2015,3.4
+Beans,2016,4.8
+Beans,2017,4.5
+Beans,2018,7.5
+Beans,2019,7.6
+Beans,2020,5.6
+Beans,2021,4.2
+Beans,2022,4.8
+Beans,2023,6.3
+Chickpeas,2010,0.2
+Chickpeas,2011,0.3
+Chickpeas,2012,0.3
+Chickpeas,2013,0.2
+Chickpeas,2014,0.2
+Chickpeas,2015,0.1
+Chickpeas,2016,0.1
+Chickpeas,2017,0.2
+Chickpeas,2018,0.3
+Chickpeas,2019,0.2
+Chickpeas,2020,0.2
+Chickpeas,2021,0.2
+Chickpeas,2022,0.1
+Chickpeas,2023,0.2
+Water Melon,2010,9.6
+Water Melon,2011,8.7
+Water Melon,2012,10.5
+Water Melon,2013,8.5
+Water Melon,2014,10.7
+Water Melon,2015,7.7
+Water Melon,2016,8.1
+Water Melon,2017,5.8
+Water Melon,2018,6.7
+Water Melon,2019,6.5
+Water Melon,2020,5.1
+Water Melon,2021,4.2
+Water Melon,2022,4.5
+Water Melon,2023,3.0
+Onion,2010,18.7
+Onion,2011,19.3
+Onion,2012,19.6
+Onion,2013,13.7
+Onion,2014,19.9
+Onion,2015,21.0
+Onion,2016,16.3
+Onion,2017,18.6
+Onion,2018,18.4
+Onion,2019,18.3
+Onion,2020,20.2
+Onion,2021,23.5
+Onion,2022,22.2
+Onion,2023,24.5
+Garlic,2010,2.5
+Garlic,2011,2.9
+Garlic,2012,2.8
+Garlic,2013,2.3
+Garlic,2014,2.3
+Garlic,2015,2.4
+Garlic,2016,2.1
+Garlic,2017,2.2
+Garlic,2018,2.7
+Garlic,2019,2.5
+Garlic,2020,2.5
+Garlic,2021,3.2
+Garlic,2022,4.1
+Garlic,2023,4.4
+"Medical, Aromatic Plant",2010,1.7
+"Medical, Aromatic Plant",2011,1.4
+"Medical, Aromatic Plant",2012,1.3
+"Medical, Aromatic Plant",2013,1.9
+"Medical, Aromatic Plant",2014,1.9
+"Medical, Aromatic Plant",2015,2.6
+"Medical, Aromatic Plant",2016,2.4
+"Medical, Aromatic Plant",2017,2.1
+"Medical, Aromatic Plant",2018,1.6
+"Medical, Aromatic Plant",2019,1.9
+"Medical, Aromatic Plant",2020,2.2
+"Medical, Aromatic Plant",2021,2.2
+"Medical, Aromatic Plant",2022,2.2
+"Medical, Aromatic Plant",2023,3.0
